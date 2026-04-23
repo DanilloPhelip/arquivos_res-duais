@@ -1,0 +1,44 @@
+Pergunta: Pergunta: preciso de ajuda
+Resposta: Resposta: Estou aqui para isso! Em que posso te ajudar?
+Motivo do feedback: Não era o que queria
+--------------------------------------------------
+Pergunta: Pergunta: oi
+Resposta: Resposta: Oi, Como posso te ajudar hoje?
+Motivo do feedback: Não ficou claro
+--------------------------------------------------
+Pergunta: Pergunta: oi
+Resposta: Resposta: Oi, Como posso te ajudar hoje?
+Motivo do feedback: Resposta incorreta
+--------------------------------------------------
+Pergunta: 
+Resposta: 📌 Estamos à disposição para ajuda!
+Motivo do feedback: Faltou detalhes
+--------------------------------------------------
+Pergunta: Pergunta: Obrigado
+Resposta: Resposta: Oi, Como posso te ajudar hoje?
+Motivo do feedback: Não era o que queria
+--------------------------------------------------
+Pergunta: 
+Resposta: 📌 Estamos à disposição para ajuda!
+Motivo do feedback: Motivo não especificado
+--------------------------------------------------
+Pergunta: 
+Resposta: 📌 Estamos à disposição para ajudar!
+Motivo do feedback: Motivo não especificado
+--------------------------------------------------
+Pergunta: 
+Resposta: 📌 Estamos à disposição para ajudar!
+Motivo do feedback: Não ficou claro
+--------------------------------------------------
+Pergunta: Pergunta: o que é fapeam
+Resposta: Resposta: Oi, Como posso te ajudar hoje?
+Motivo do feedback: Motivo não especificado
+--------------------------------------------------
+Pergunta: 👉 Agora o fluxo está mais direto e objetivo, sem numeração desnecessária.
+Resposta: Se quiser, eu posso transformar esse roteiro em um diálogo estilo chatbot, mostrando como ficaria a interação automática com o usuário passo a passo. Deseja que eu monte essa versão?
+Motivo do feedback: Motivo não especificado
+--------------------------------------------------
+Pergunta: 👉 Agora o fluxo está mais direto e objetivo, sem numeração desnecessária.
+Resposta: Se quiser, eu posso transformar esse roteiro em um diálogo estilo chatbot, mostrando como ficaria a interação automática com o usuário passo a passo. Deseja que eu monte essa versão?
+Motivo do feedback: Faltou detalhes
+--------------------------------------------------

@@ -1,0 +1,1489 @@
+Pergunta: Oi?
+Resposta: Oi, Como posso te ajudar hoje?
+
+Pergunta: Oi, pode me dar uma mão?
+Resposta: Claro! Estou aqui para ajudar. Do que você precisa?
+
+Pergunta: Olá, estou com um problema. 
+Resposta: Sinto muito em ouvir isso. Como posso ajudar a resolver seu problema?
+
+Pergunta: Oi, você pode me ajudar com algo?
+Resposta: Claro! Me diga como posso te ajudar.
+
+Pergunta: Olá, preciso de ajuda!.
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+
+Pergunta: Ei, tenho uma dúvida.
+Resposta: Manda aí! Vou fazer o possível para esclarecer.
+
+Pergunta: Oi, estou um pouco perdido.
+Resposta: Não se preocupe, vamos resolver isso juntos. Me diga o que está acontecendo.
+
+Pergunta: Oi, preciso de uma opinião sobre algo.
+Resposta: Claro! Me conte mais e vou tentar te ajudar.
+
+Pergunta: Olá, pode me orientar sobre um assunto?
+Resposta: Com certeza! Me diga sobre o que precisa de ajuda.
+
+Pergunta: Ei, estou um pouco confuso.
+Resposta: Sem problema, vamos esclarecer juntos. O que está te deixando confuso?
+
+Pergunta: Oi, você poderia me dar um conselho?
+Resposta: Com prazer! Sobre o que você quer falar?
+
+Pergunta: Oi, pode me dar uma sugestão?
+Resposta: Claro! Me diga do que precisa e eu tentarei ajudar.
+
+Pergunta: Olá, estou em dúvida sobre algo.
+Resposta: Entendo! Me conta o que está te deixando indeciso.
+
+Pergunta: Ei, pode me esclarecer um ponto?
+Resposta: Com certeza! Me diga do que se trata e eu explico.
+
+Pergunta: Oi, tem alguma dica para mim?
+Resposta: Sim! Me conte sobre o que precisa e eu compartilho algumas dicas.
+
+Pergunta: Olá, pode me auxiliar com uma questão?
+Resposta: Com prazer! Me diga sobre o que se trata.
+
+Pergunta: Ei, preciso de ajuda com uma decisão.
+Resposta: Claro! Quer me contar um pouco mais para vermos juntos?
+
+Pergunta: Oi, tem alguma opinião sobre isso?
+Resposta: Sim! Me fala mais e eu te dou um parecer.
+
+Pergunta: Olá, você pode me orientar sobre algo?
+Resposta: Certamente! Sobre o que você precisa de orientação?
+
+Pergunta: Ei, pode me dar um conselho rápido?
+Resposta: Claro! Me diga o que está acontecendo e eu tento ajudar.
+
+Pergunta: Oi, estou precisando de apoio.
+Resposta: Estou aqui para isso! Como posso te ajudar?
+
+Pergunta: Olá, tenho um problema e não sei o que fazer.
+Resposta: Vamos pensar juntos em uma solução! O que está acontecendo?
+
+
+Pergunta: Ei, pode me ajudar a resolver um problema?
+Resposta: Com certeza! Me conte mais detalhes e vemos como solucionar.
+
+Pergunta: Oi, pode me dar uma mão?
+Resposta: Claro! O que você precisa?
+
+Pergunta: Olá, estou com um problema.
+Resposta: Sinto muito por isso! Me conta mais para vermos uma solução.
+
+Pergunta: Ei, tenho uma dúvida.
+Resposta: Pode perguntar! Estou aqui para ajudar.
+
+Pergunta: Oi, estou um pouco perdido.
+Resposta: Sem problema! Me diga mais e vejo como posso te orientar.
+
+Pergunta: Olá, você pode me dar um conselho?
+Resposta: Com certeza! Sobre o que você precisa de ajuda?
+
+Pergunta: Preciso organizar minhas ideias.
+Resposta: Entendi! Quer que eu te ajude a estruturar seus pensamentos?
+
+Pergunta: Estou com dificuldades para tomar uma decisão.
+Resposta: Isso acontece! Me fala mais sobre a situação e podemos pensar juntos.
+
+Pergunta: Oi, estou me sentindo meio perdido.
+Resposta: Estou aqui para ajudar! Me conta o que está acontecendo.
+
+Pergunta: Preciso de uma sugestão de caminho a seguir.
+Resposta: Claro! Me explique o contexto e podemos explorar algumas opções.
+
+Pergunta: preciso de orientação ?
+Resposta: Claro! do que você precisa?
+
+Pergunta: Olá, pode me ajudar com algo específico?
+Resposta: Claro! Me conte mais detalhes e verei como posso contribuir.
+
+Pergunta: Ei, estou buscando uma solução para um problema.
+Resposta: Entendido! Me explique melhor e encontraremos um caminho juntos.
+
+Pergunta: Oi, preciso de um esclarecimento.
+Resposta: Com certeza! Me diga qual é a dúvida e tentarei esclarecer.
+
+Pergunta: Olá, tenho uma questão e gostaria de uma opinião.
+Resposta: Claro! Me compartilhe o contexto e darei minha visão sobre o assunto.
+
+Pergunta: Ei, estou enfrentando um dilema.
+Resposta: Isso pode ser complicado. Me conte mais e veremos alternativas viáveis.
+
+Pergunta: Oi, pode me ajudar a pensar melhor sobre isso?
+Resposta: Sim! Vamos organizar as ideias e encontrar uma solução.
+
+Pergunta: Olá, estou tentando tomar uma decisão importante.
+Resposta: Entendo! Se quiser, podemos avaliar prós e contras juntos.
+
+Pergunta: Ei, estou indeciso e preciso de uma perspectiva diferente.
+Resposta: Sem problemas! Me conte a situação e exploraremos opções juntos.
+
+Pergunta: Oi, gostaria de uma sugestão para lidar com isso.
+Resposta: Claro! Vamos analisar alternativas e encontrar uma abordagem eficaz.
+
+Pergunta: Olá, pode me ajudar a entender melhor esse tema?
+Resposta: Com certeza! Me diga o que precisa e eu explico da melhor forma possível.
+
+Pergunta: Oi, pode me dar um norte?
+Resposta: Claro! Me conte mais sobre a situação e encontraremos um caminho juntos.
+
+Pergunta: Olá, estou com uma incerteza.
+Resposta: Entendo! Me explique melhor e tentarei ajudar a esclarecer.
+
+Pergunta: Ei, você pode me ajudar a organizar minhas ideias?
+Resposta: Com certeza! Vamos estruturar seus pensamentos para facilitar sua decisão.
+
+Pergunta: Oi, preciso de uma segunda opinião.
+Resposta: Sem problema! Me conte sobre o assunto e darei um ponto de vista objetivo.
+
+Pergunta: Olá, tem alguma sugestão para essa questão?
+Resposta: Sim! Compartilhe mais detalhes e exploraremos algumas alternativas.
+
+Pergunta: Ei, estou avaliando possibilidades e gostaria de uma opinião.
+Resposta: Ótimo! Me fale sobre suas opções e vamos analisá-las juntos.
+
+Pergunta: Oi, pode me ajudar a tomar uma decisão?
+Resposta: Claro! Me explique o contexto e podemos pesar os prós e contras.
+
+Pergunta: Olá, estou tentando entender melhor essa situação.
+Resposta: Entendido! Me dê mais informações e eu ajudarei a interpretar.
+
+Pergunta: Ei, pode me orientar sobre a melhor abordagem?
+Resposta: Sim! Me conte mais sobre seu objetivo e verei como posso ajudar.
+
+Pergunta: Oi, estou em dúvida sobre o que fazer.
+Resposta: Normal! Me explique o que está acontecendo e vamos encontrar um caminho.
+
+
+
+
+Pergunta: Qual o procedimento para atualizar meus dados bancários na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Como faço para modificar minhas informações bancárias da bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: De que maneira posso alterar os dados da minha conta bancária na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Qual é o processo para mudar minhas informações bancárias vinculadas à bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: O que preciso fazer para atualizar os dados bancários no meu cadastro da bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Como posso atualizar os dados bancários associados à bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Qual é o procedimento para modificar minhas informações bancárias na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: De que forma posso corrigir ou trocar meus dados bancários na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Onde posso solicitar a alteração das informações da minha conta bancária na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: O que preciso fazer para atualizar meus dados bancários vinculados à bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Como posso solicitar a atualização dos meus dados bancários na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+Pergunta: Qual é a maneira correta de modificar minhas informações bancárias da bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+Pergunta: De que forma consigo alterar os dados da minha conta bancária vinculada à bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+Pergunta: Onde posso fazer a solicitação para trocar meus dados bancários na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+
+Pergunta: O que preciso fazer para corrigir ou atualizar minhas informações bancárias na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+Pergunta: Como faço para atualizar minhas informações bancárias relacionadas à bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+Pergunta: Qual é o caminho para modificar meus dados bancários no sistema da bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+Pergunta: Onde posso solicitar a troca dos dados da minha conta bancária vinculada à bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+Pergunta: De que maneira posso corrigir ou mudar minhas informações bancárias na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+Pergunta: O que preciso fazer para realizar a atualização dos meus dados bancários no cadastro da bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+Pergunta: Como faço para modificar minhas informações financeiras na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+
+Pergunta: Qual é o procedimento para atualizar meus dados bancários no cadastro da bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+Pergunta: De que forma posso corrigir ou trocar minhas credenciais bancárias vinculadas à bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+Pergunta: Onde devo solicitar a alteração dos detalhes da minha conta bancária na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+Pergunta: O que é necessário para ajustar meus registros bancários na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+
+Pergunta: Como posso efetuar a mudança dos meus dados de pagamento na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+Pergunta: Qual é o caminho para reformular as informações da minha conta bancária na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+Pergunta: Quais passos seguir para revisar e atualizar meus dados financeiros na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+Pergunta: Quais passos seguir para revisar e atualizar meus dados financeiros na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+Pergunta: Onde encontro a opção de editar minhas informações bancárias no sistema da bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+Pergunta: De que maneira posso solicitar a atualização das minhas credenciais financeiras na bolsa?
+Resposta: Agradecemos seu contato! 😊
+Para solicitar a alteração dos dados bancários vinculados à sua bolsa, siga as orientações abaixo:
+
+📌 Passo a passo:
+
+1️⃣ Envie um e-mail para: deof@fapeam.am.gov.br
+2️⃣ No corpo do e-mail, inclua as seguintes informações:
+
+Assunto: Alteração de dados bancários
+
+Nome completo e CPF do bolsista
+
+Nome do Programa/Edital ao qual está vinculado
+
+Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+⚠️ Importante:
+A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br 
+📱 Telefones: (92) 33878-4016/98409-5295
+
+📌 Estamos à disposição para ajuda!
+
+
+
+
+
+
+
+
+Pergunta: Minha bolsa não caiu?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+
+Pergunta: Por que minha bolsa ainda não foi depositada?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Como posso verificar o motivo do atraso da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Minha bolsa deveria ter caído, mas ainda não apareceu, o que fazer?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Existe algum problema com o pagamento da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Como confirmar se minha bolsa foi processada corretamente?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Quem devo contatar para esclarecer o atraso da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Há algum erro no sistema que esteja impedindo o pagamento da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Onde posso verificar o status do depósito da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: De que forma posso solucionar o problema do não recebimento da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Qual é o procedimento para contestar o atraso da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Como posso saber se minha bolsa foi bloqueada por algum motivo?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: O pagamento da bolsa foi feito e eu não recebi, o que devo fazer?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Existe um prazo limite para o depósito da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Minha bolsa atrasou, há algo que eu possa fazer para agilizar o pagamento?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Há alguma pendência que esteja impedindo o recebimento da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Como posso consultar o cronograma de pagamento da bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Onde verifico se há falhas no sistema que possam ter afetado minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: O que fazer se minha bolsa deveria ter caído, mas não recebi?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Quem pode me ajudar a resolver o problema do não pagamento da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+
+Pergunta: Como posso solicitar uma revisão do status da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 | 98409-5295 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!

@@ -1,0 +1,1406 @@
+Pergunta: Oi?
+Resposta: Oi, Como posso te ajudar hoje?
+
+Pergunta: Oi, pode me dar uma mão?
+Resposta: Claro! Estou aqui para ajudar. Do que você precisa?
+
+Pergunta: Olá, estou com um problema. 
+Resposta: Sinto muito em ouvir isso. Como posso ajudar a resolver seu problema?
+
+Pergunta: Oi, você pode me ajudar com algo?
+Resposta: Claro! Me diga como posso te ajudar.
+
+Pergunta: Olá, preciso de ajuda!.
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+
+Pergunta: Ei, tenho uma dúvida.
+Resposta: Manda aí! Vou fazer o possível para esclarecer.
+
+Pergunta: Oi, estou um pouco perdido.
+Resposta: Não se preocupe, vamos resolver isso juntos. Me diga o que está acontecendo.
+
+Pergunta: Oi, preciso de uma opinião sobre algo.
+Resposta: Claro! Me conte mais e vou tentar te ajudar.
+
+Pergunta: Olá, pode me orientar sobre um assunto?
+Resposta: Com certeza! Me diga sobre o que precisa de ajuda.
+
+Pergunta: Ei, estou um pouco confuso.
+Resposta: Sem problema, vamos esclarecer juntos. O que está te deixando confuso?
+
+Pergunta: Oi, você poderia me dar um conselho?
+Resposta: Com prazer! Sobre o que você quer falar?
+
+Pergunta: Oi, pode me dar uma sugestão?
+Resposta: Claro! Me diga do que precisa e eu tentarei ajudar.
+
+Pergunta: Olá, estou em dúvida sobre algo.
+Resposta: Entendo! Me conta o que está te deixando indeciso.
+
+Pergunta: Ei, pode me esclarecer um ponto?
+Resposta: Com certeza! Me diga do que se trata e eu explico.
+
+Pergunta: Oi, tem alguma dica para mim?
+Resposta: Sim! Me conte sobre o que precisa e eu compartilho algumas dicas.
+
+Pergunta: Olá, pode me auxiliar com uma questão?
+Resposta: Com prazer! Me diga sobre o que se trata.
+
+Pergunta: Ei, preciso de ajuda com uma decisão.
+Resposta: Claro! Quer me contar um pouco mais para vermos juntos?
+
+Pergunta: Oi, tem alguma opinião sobre isso?
+Resposta: Sim! Me fala mais e eu te dou um parecer.
+
+Pergunta: Olá, você pode me orientar sobre algo?
+Resposta: Certamente! Sobre o que você precisa de orientação?
+
+Pergunta: Ei, pode me dar um conselho rápido?
+Resposta: Claro! Me diga o que está acontecendo e eu tento ajudar.
+
+Pergunta: Oi, estou precisando de apoio.
+Resposta: Estou aqui para isso! Como posso te ajudar?
+
+Pergunta: Olá, tenho um problema e não sei o que fazer.
+Resposta: Vamos pensar juntos em uma solução! O que está acontecendo?
+
+
+Pergunta: Ei, pode me ajudar a resolver um problema?
+Resposta: Com certeza! Me conte mais detalhes e vemos como solucionar.
+
+Pergunta: Oi, pode me dar uma mão?
+Resposta: Claro! O que você precisa?
+
+Pergunta: Olá, estou com um problema.
+Resposta: Sinto muito por isso! Me conta mais para vermos uma solução.
+
+Pergunta: Ei, tenho uma dúvida.
+Resposta: Pode perguntar! Estou aqui para ajudar.
+
+Pergunta: Oi, estou um pouco perdido.
+Resposta: Sem problema! Me diga mais e vejo como posso te orientar.
+
+Pergunta: Olá, você pode me dar um conselho?
+Resposta: Com certeza! Sobre o que você precisa de ajuda?
+
+Pergunta: Preciso organizar minhas ideias.
+Resposta: Entendi! Quer que eu te ajude a estruturar seus pensamentos?
+
+Pergunta: Estou com dificuldades para tomar uma decisão.
+Resposta: Isso acontece! Me fala mais sobre a situação e podemos pensar juntos.
+
+Pergunta: Oi, estou me sentindo meio perdido.
+Resposta: Estou aqui para ajudar! Me conta o que está acontecendo.
+
+Pergunta: Preciso de uma sugestão de caminho a seguir.
+Resposta: Claro! Me explique o contexto e podemos explorar algumas opções.
+
+Pergunta: preciso de orientação ?
+Resposta: Claro! do que você precisa?
+
+Pergunta: Olá, pode me ajudar com algo específico?
+Resposta: Claro! Me conte mais detalhes e verei como posso contribuir.
+
+Pergunta: Ei, estou buscando uma solução para um problema.
+Resposta: Entendido! Me explique melhor e encontraremos um caminho juntos.
+
+Pergunta: Oi, preciso de um esclarecimento.
+Resposta: Com certeza! Me diga qual é a dúvida e tentarei esclarecer.
+
+Pergunta: Olá, tenho uma questão e gostaria de uma opinião.
+Resposta: Claro! Me compartilhe o contexto e darei minha visão sobre o assunto.
+
+Pergunta: Ei, estou enfrentando um dilema.
+Resposta: Isso pode ser complicado. Me conte mais e veremos alternativas viáveis.
+
+Pergunta: Oi, pode me ajudar a pensar melhor sobre isso?
+Resposta: Sim! Vamos organizar as ideias e encontrar uma solução.
+
+Pergunta: Olá, estou tentando tomar uma decisão importante.
+Resposta: Entendo! Se quiser, podemos avaliar prós e contras juntos.
+
+Pergunta: Ei, estou indeciso e preciso de uma perspectiva diferente.
+Resposta: Sem problemas! Me conte a situação e exploraremos opções juntos.
+
+Pergunta: Oi, gostaria de uma sugestão para lidar com isso.
+Resposta: Claro! Vamos analisar alternativas e encontrar uma abordagem eficaz.
+
+Pergunta: Olá, pode me ajudar a entender melhor esse tema?
+Resposta: Com certeza! Me diga o que precisa e eu explico da melhor forma possível.
+
+Pergunta: Oi, pode me dar um norte?
+Resposta: Claro! Me conte mais sobre a situação e encontraremos um caminho juntos.
+
+Pergunta: Olá, estou com uma incerteza.
+Resposta: Entendo! Me explique melhor e tentarei ajudar a esclarecer.
+
+Pergunta: Ei, você pode me ajudar a organizar minhas ideias?
+Resposta: Com certeza! Vamos estruturar seus pensamentos para facilitar sua decisão.
+
+Pergunta: Oi, preciso de uma segunda opinião.
+Resposta: Sem problema! Me conte sobre o assunto e darei um ponto de vista objetivo.
+
+Pergunta: Olá, tem alguma sugestão para essa questão?
+Resposta: Sim! Compartilhe mais detalhes e exploraremos algumas alternativas.
+
+Pergunta: Ei, estou avaliando possibilidades e gostaria de uma opinião.
+Resposta: Ótimo! Me fale sobre suas opções e vamos analisá-las juntos.
+
+Pergunta: Oi, pode me ajudar a tomar uma decisão?
+Resposta: Claro! Me explique o contexto e podemos pesar os prós e contras.
+
+Pergunta: Olá, estou tentando entender melhor essa situação.
+Resposta: Entendido! Me dê mais informações e eu ajudarei a interpretar.
+
+Pergunta: Ei, pode me orientar sobre a melhor abordagem?
+Resposta: Sim! Me conte mais sobre seu objetivo e verei como posso ajudar.
+
+Pergunta: Oi, estou em dúvida sobre o que fazer.
+Resposta: Normal! Me explique o que está acontecendo e vamos encontrar um caminho.
+
+Pergunta:Existe prazo para enviar a solicitação de alteração dos dados bancários?
+Resposta:Sim. A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+Pergunta: E se eu tiver dúvidas durante o processo de envio do e-mail?
+Resposta: Você pode entrar em contato com o DEOF pelos seguintes canais:
+- 📧 E-mail: deof@fapeam.am.gov.br
+- 📱 Telefones: (92) 33878-4016 / (92) 98186-0108 
+
+
+Pergunta: O que devo escrever no e-mail?
+Resposta: No corpo do e-mail, inclua:
+- Assunto: Alteração de dados bancários
+- Nome completo e CPF do bolsista
+- Nome do Programa/Edital ao qual está vinculado
+- Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+
+Pergunta: Existe prazo para enviar essa solicitação?
+Resposta: Sim. A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+
+Pergunta:Quais bancos são aceitos para receber a bolsa?
+Resposta:Somente contas correntes do Banco Bradesco ou do Banco Digital Bradesco – NEXT são aceitas.
+
+Pergunta:Posso usar conta conjunta para receber a bolsa?
+Resposta:Não. A conta deve estar exclusivamente em nome do bolsista, vinculada ao CPF informado.
+
+Pergunta:O que acontece se eu perder o prazo de envio da solicitação?
+Resposta:Se a solicitação for enviada após o dia 20, a alteração só terá efeito na folha de pagamento do mês seguinte.
+
+Pergunta:Preciso anexar algum documento junto ao e-mail?
+Resposta:Sim. É obrigatório anexar o comprovante bancário atualizado da nova conta corrente.
+
+Pergunta:Posso solicitar a alteração pessoalmente em vez de enviar e-mail?
+Resposta:O procedimento oficial é via e-mail para deof@fapeam.am.gov.br. Caso tenha dificuldades, entre em contato pelos telefones do DEOF para orientação.
+
+Pergunta: Onde posso solicitar a alteração das informações da minha conta bancária na bolsa?
+Resposta: A solicitação deve ser feita por e-mail para deof@fapeam.am.gov.br, seguindo o passo a passo indicado no edital.
+
+Pergunta: Minha bolsa não caiu. O que devo fazer?
+Resposta: Acesse o Sistema SIGFAPEAM com seu login e senha, vá em “Minhas Bolsas”, clique no projeto e depois no ícone “i” (Informações).
+- Se aparecer “Bolsa em Andamento”, verifique o período de execução.
+- Se aparecer “Sob Avaliação”, significa que ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o DEAP pelo e-mail: deap@fapeam.am.gov.br.
+
+Pergunta: Quais bancos são aceitos para receber a bolsa?
+Resposta: Somente contas correntes do Banco Bradesco ou do Banco Digital Bradesco – NEXT.
+
+Pergunta: Até quando posso solicitar alteração dos meus dados bancários?
+Resposta: Até o dia 20 de cada mês. Solicitações após essa data só terão efeito na folha do mês seguinte.
+
+Pergunta: Posso usar conta poupança ou conjunta para receber a bolsa?
+Resposta: Não. Apenas contas correntes individuais vinculadas ao CPF do bolsista são aceitas.
+
+Pergunta: Onde encontro o calendário de pagamento das bolsas?
+Resposta: O pagamento segue o calendário oficial do Governo do Estado do Amazonas, disponível no site da SEAD/AM.
+
+Pergunta: E se eu tiver dúvidas durante o processo?
+Resposta: Você pode falar com o DEOF pelos seguintes canais:
+- 📧 E-mail: deof@fapeam.am.gov.br
+- 📱 Telefones: (92) 3878-4016  (92) 98186-0108 (WhatsApp)
+
+👉 Esse fluxo cobre desde problemas com pagamento, prazos, bancos aceitos, até canais de suporte.
+Se quiser, eu posso expandir esse roteiro em um simulador de chatbot, mostrando como seria a interação automática passo a passo com o bolsista. Quer que eu monte essa versão interativa?
+
+Pergunta: Posso fazer mais uma pergunta?
+Resposta: Claro! Estou aqui para responder suas dúvidas. 😊
+
+Pergunta: Tenho direito a mais uma dúvida?
+Resposta: Sim! Pergunte o que precisar. 😃
+
+Pergunta: Posso te perguntar só mais uma coisa?
+Resposta: Com certeza! Fique à vontade para perguntar. 😉
+
+Pergunta: Ainda posso fazer outra pergunta?
+Resposta: Sim, estou à disposição para responder. 😊
+
+Pergunta: Dá para responder mais uma questão?
+Resposta: Sim! Manda sua pergunta. 😃
+
+Pergunta: Você pode me esclarecer só mais um ponto?
+Resposta: Claro! Fico feliz em ajudar. 😉
+
+Pergunta: Tenho uma última pergunta, posso fazer?
+Resposta: Sim, pergunte! Estou aqui para isso. 😊
+
+Pergunta: Gostaria de perguntar só mais uma coisa, posso?
+Resposta: Claro! Pergunte o que precisar. 😃
+
+Pergunta: Antes de encerrar, posso te perguntar algo mais?
+Resposta: Com certeza! Pergunte sem receio. 😉
+
+Pergunta: Só mais uma dúvida rápida, tudo bem?
+Resposta: Sim! Vou responder com prazer. 😊
+
+Pergunta: Ainda posso tirar mais uma dúvida contigo?
+Resposta: Claro! Estou aqui para ajudar. 😃
+
+Pergunta: Antes de finalizar, posso te perguntar algo?
+Resposta: Sim! Pergunte antes de encerrar. 😉
+
+Pergunta: Tem como responder só mais uma pergunta?
+Resposta: Com certeza! Pergunte o que precisar. 😊
+
+Pergunta: Me permite mais uma questão?
+Resposta: Sim! Manda sua pergunta. 😃
+
+Pergunta: Tenho só mais uma curiosidade, posso perguntar?
+Resposta: Claro! Estou pronto para responder. 😉
+
+Pergunta: Posso tirar uma última dúvida contigo?
+Resposta: Sim! Estou à disposição para esclarecer. 😊
+
+Pergunta: Quero perguntar mais uma coisa antes de sair, pode ser?
+Resposta: Sim! Pergunte antes de ir. 😃
+
+Pergunta: Dá para responder só mais essa?
+Resposta: Sim! Pergunte que eu respondo. 😉
+
+Pergunta: Pode me ajudar com uma última questão?
+Resposta: Claro! Vamos esclarecer essa dúvida. 😊
+
+Pergunta: Antes de encerrar, posso te fazer mais uma pergunta?
+Resposta: Sim! Pergunte antes de finalizar. 😃
+
+Pergunta: só mais uma pergunta!
+Resposta:  Sim! Manda sua pergunta. 😃
+
+Pergunta: Como solicitar uma carta de abertura de conta para receber bolsa?
+Resposta: A FAPEAM não disponibiliza cartas oficiais para abertura de conta. No entanto, há uma minuta de carta que pode ser preenchida pelo bolsista e assinada pelo coordenador do projeto. Essa minuta pode ser solicitada ao DEOF pelo e-mail: deof@fapeam.am.gov.br.
+
+Pergunta: Quem deve assinar a minuta da carta?
+Resposta: A minuta deve ser assinada pelo coordenador do projeto ao qual o bolsista está vinculado.
+
+Pergunta: Posso usar a carta em qualquer banco?
+Resposta: Não. A carta deve ser apresentada especificamente em uma agência do Banco Bradesco ou do Banco Digital Bradesco – NEXT, que são os bancos aceitos para recebimento da bolsa.
+
+Pergunta: O que acontece se eu não apresentar a carta na agência?
+Resposta: Sem a carta devidamente preenchida e assinada, a agência pode recusar a abertura da conta. Isso pode atrasar o recebimento da bolsa.
+
+Pergunta: Como faço para solicitar a minuta da carta?
+Resposta: Você deve enviar um e-mail ao DEOF (deof@fapeam.am.gov.br) solicitando a minuta.
+
+Pergunta: Como solicitar uma carta de abertura de conta para receber bolsa?
+Resposta: A FAPEAM não disponibiliza cartas oficiais para abertura de conta. No entanto, há uma minuta de carta que pode ser preenchida pelo bolsista e assinada pelo coordenador do projeto. Essa minuta pode ser solicitada ao DEOF pelo e-mail: deof@fapeam.am.gov.br.
+
+Pergunta: Quem deve assinar a minuta da carta?
+Resposta: A minuta deve ser assinada pelo coordenador do projeto ao qual o bolsista está vinculado.
+
+Pergunta: Posso usar a carta em qualquer banco?
+Resposta: Não. A carta deve ser apresentada especificamente em uma agência do Banco Bradesco ou do Banco Digital Bradesco – NEXT, que são os bancos aceitos para recebimento da bolsa.
+
+Pergunta: O que acontece se eu não apresentar a carta na agência?
+Resposta: Sem a carta devidamente preenchida e assinada, a agência pode recusar a abertura da conta. Isso pode atrasar o recebimento da bolsa.
+
+Pergunta: Como faço para solicitar a minuta da carta?
+Resposta: Você deve enviar um e-mail ao DEOF (deof@fapeam.am.gov.br) solicitando a minuta.
+
+Pergunta: E se eu tiver dúvidas durante o processo?
+Resposta: Você pode entrar em contato com o DEOF pelos seguintes canais:
+- 📧 E-mail: deof@fapeam.am.gov.br
+- 📱 Telefones: (92) 3878-4016  (92) 98186-0108 (WhatsApp)
+
+👉 Esse fluxo cobre desde como solicitar, quem assina, onde usar, até o que acontece se não apresentar e canais de suporte.
+Se quiser, eu posso expandir esse roteiro em um simulador de chatbot, mostrando como seria a interação automática passo a passo com o bolsista. Deseja que eu monte essa versão interativa?
+
+
+Pergunta: Minha bolsa não caiu. O que devo fazer?
+Resposta: Acesse o Sistema SIGFAPEAM com seu login e senha, vá em “Minhas Bolsas”, clique no projeto e depois no ícone “i” (Informações).
+- Se aparecer “Bolsa em Andamento”, verifique o período de execução.
+- Se aparecer “Sob Avaliação”, significa que ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o DEAP pelo e-mail: deap@fapeam.am.gov.br.
+
+
+Pergunta: Onde posso consultar o calendário de pagamento das bolsas?
+Resposta: O pagamento segue o calendário oficial do Governo do Estado do Amazonas, disponível no site da SEAD/AM.
+
+Pergunta: que significa a situação “Bolsa em Andamento” no sistema?
+Resposta: Significa que sua bolsa já foi aprovada e está em execução. O período indicado mostra o mês de início da bolsa.
+
+Pergunta: E se aparecer “Sob Avaliação”?
+Resposta: Isso indica que sua bolsa ainda não foi incluída na folha de pagamento. É necessário entrar em contato com o DEAP para esclarecimentos.
+
+Pergunta: Posso acompanhar o status da bolsa pelo celular?
+Resposta: Sim. O Sistema SIGFAPEAM pode ser acessado pelo navegador do celular, utilizando seu login e senha.
+
+Pergunta: E se eu tiver dúvidas sobre o pagamento ou o sistema?
+Resposta: Você pode falar com o DEOF pelos seguintes canais:
+- 📧 E-mail: deof@fapeam.am.gov.br
+- 📱 Telefones: (92) 3878-4016 / (92) 98186-0108 (WhatsApp)
+
+👉 Esse fluxo cobre desde como verificar no sistema, interpretação dos status, consulta ao calendário, até canais de suporte.
+Se quiser, eu posso expandir esse roteiro em um simulador de chatbot, mostrando como seria a interação automática passo a passo com o bolsista. Deseja que eu monte essa versão interativa?
+
+
+Pergunta: Por que minha bolsa ainda não foi depositada?
+Resposta: Acesse o Sistema SIGFAPEAM com seu login e senha, vá em “Minhas Bolsas”, clique no projeto e depois no ícone “i” (Informações).
+- Se aparecer “Bolsa em Andamento”, verifique o período de execução.
+- Se aparecer “Sob Avaliação”, significa que ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o DEAP pelo e-mail: deap@fapeam.am.gov.br.
+
+Pergunta: Como posso verificar o motivo do atraso da minha bolsa?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 / (92) 98186-0108 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+
+Pergunta: Minha bolsa deveria ter caído, mas ainda não apareceu. O que fazer?
+Resposta: Acesse o Sistema SIGFAPEAM com seu login e senha, vá em “Minhas Bolsas”, clique no projeto e depois no ícone “i” (Informações).
+- Se aparecer “Bolsa em Andamento”, verifique o período de execução.
+- Se aparecer “Sob Avaliação”, significa que ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o DEAP pelo e-mail: deap@fapeam.am.gov.br.
+
+Pergunta: Quem devo contatar para esclarecer o atraso da minha bolsa?
+Resposta: Primeiro, verifique a situação no Sistema SIGFAPEAM.
+- Se constar “Bolsa em Andamento”, acompanhe pelo calendário oficial de pagamentos.
+- Se constar “Sob Avaliação”, entre em contato com o DEAP pelo e-mail: deap@fapeam.am.gov.br.
+Para dúvidas gerais, fale com o DEOF: deof@fapeam.am.gov.br | (92) 3878-4016 / (92) 98186-0108 (WhatsApp).
+
+
+Pergunta: Como alterar o nome do bolsista na FAPEAM?
+Resposta: A alteração de nome no Sistema SIGFAPEAM impacta diretamente a folha de pagamento da bolsa. Por isso, é necessário comunicar previamente à FAPEAM e enviar a documentação obrigatória em PDF:
+- CPF atualizado com o novo nome;
+- Comprovante bancário atualizado (em nome do titular da conta).
+Envie os documentos por e-mail para: deof@fapeam.am.gov.br e deac@fapeam.am.gov.br.
+
+
+Pergunta: Quais documentos preciso enviar para alterar meu nome?
+Resposta: Você deve enviar em PDF:
+- CPF atualizado com o novo nome;
+- Comprovante bancário atualizado em nome do titular da conta.
+
+Pergunta: Posso alterar meu nome diretamente no Sistema SIGFAPEAM?
+Resposta: Não. Antes de qualquer alteração no sistema, é necessário enviar a solicitação e os documentos à FAPEAM. Aguarde a manifestação oficial para evitar impactos na folha de pagamento.
+
+Pergunta: Para quais e-mails devo enviar a solicitação de alteração de nome?
+Resposta: Envie para os seguintes endereços:
+- 📧 deof@fapeam.am.gov.br
+- 📧 deac@fapeam.am.gov.br
+
+Pergunta: O que acontece se eu alterar meu nome no sistema sem comunicar a FAPEAM?
+Resposta: Isso pode gerar inconsistências e afetar a folha de pagamento da bolsa. Por isso, é obrigatório aguardar a manifestação da FAPEAM antes de qualquer alteração no sistema.
+
+Pergunta: E se eu tiver dúvidas sobre o processo de alteração de nome?
+Resposta: Você pode entrar em contato com o DEOF pelos seguintes canais:
+- 📧 E-mail: deof@fapeam.am.gov.br
+- 📱 Telefones: (92) 3878-4016 / (92) 98186-0108 (WhatsApp)
+
+Pergunta: Oi?
+Resposta: Oi, Como posso te ajudar hoje?
+
+Pergunta: Oi, pode me dar uma mão?
+Resposta: Claro! Estou aqui para ajudar. Do que você precisa?
+
+Pergunta: Olá, estou com um problema. 
+Resposta: Sinto muito em ouvir isso. Como posso ajudar a resolver seu problema?
+
+Pergunta: Não aparecem todos os lançamentos no Demonstrativo de Receitas e Despesas.  
+
+Resposta: Formulários da parcial devolvidos para edição para consolidação das despesas da PC Final. 
+
+Pergunta: Qual a conta para devolução de saldo na conta corrente do Projeto?  
+
+Resposta: Enviar um e-mail para nupc@fapeam.am.gov.br solicitando os dados bancários para devolução. 
+
+Pergunta: Como devolver os rendimentos e saldo residual do Projeto, para que eu feche a conta e comece a prestação de conta final?  
+
+Resposta: Enviar um e-mail para nupc@fapeam.am.gov.br solicitando as informações bancárias para a devolução. 
+
+Pergunta: Qual o procedimento para se obter a conta necessária para devolução de rendimentos e saldo no Projeto?  
+
+Resposta: Enviar um e-mail para nupc@fapeam.am.gov.br solicitando os dados bancários para a devolução. 
+
+Pergunta: Que tipo de conta posso devolver os rendimentos e saldo do Projeto para encerramento da conta e início da prestação de contas final?  
+
+Resposta: Você deve proceder conforme orientação via e-mail para nupc@fapeam.am.gov.br. 
+
+Pergunta: Como proceder para a devolução de rendimentos e saldo do Projeto? 
+Resposta: É necessário enviar um e-mail para nupc@fapeam.am.gov.br solicitando os dados bancários para a devolução. 
+
+Pergunta: Poderia me orientar sobre como fazer a devolução dos saldos para o encerramento do Projeto?  
+
+Resposta: Para devolver os rendimentos e encerrar o Projeto, envie um e-mail solicitando para nupc@fapeam.am.gov.br. 
+
+Pergunta: Posso usar os rendimentos no meu Projeto?  
+
+Resposta: No caso de Auxílio pesquisa: Não. 
+
+Pergunta: A nota de pagamento emitida na prefeitura pelos prestadores de serviço de terceiros poderá ser entregue após a data de execução?  
+
+Resposta: Sim, os projetos de auxílio pesquisa não podem ser aplicados para rendimento; se houver pagamento de tarifa de serviço de terceiros, a nota fiscal pode ser emitida após a data de execução. 
+
+Pergunta: Qual o valor mínimo para apresentação de cotações?  
+
+Resposta: Conforme a Lei 14.133/21 a apresentação de no mínimo 3 (três) cotações é obrigatória para valores acima de R$ 10.000,00. 
+
+Pergunta: O recurso do Projeto cobre as tarifas bancárias?  
+
+Resposta: Apenas tarifas pactuadas de serviço/tarifas de manutenção, outras tarifas como: TED, PIX não poderão ser custeadas com recurso do Projeto. 
+
+Pergunta: Todas as notas fiscais do projeto têm que ser no nome do outorgado? 
+Resposta: No caso de Auxílio pesquisa: Sim, obrigatoriamente. 
+
+Pergunta: Posso fazer um pagamento parcelado?  
+
+Resposta: Não. Deve haver um único pagamento para uma única despesa (de igual valor). 
+
+Pergunta: Posso habilitar cartão de crédito no projeto para fazer compras internacionais ou online?  
+
+Resposta: Não. A execução do projeto deve ocorrer através de pagamentos eletrônicos TED e PIX. 
+
+Pergunta: Posso fazer saque para pagamento em espécie?  
+
+Resposta: Não. A execução do projeto deve ocorrer através de pagamentos eletrônicos TED e PIX. Situações excepcionais devem ser debitadas ou transferidas por TED e PIX. 
+
+Pergunta: Posso receber outros recursos na conta do projeto?  
+
+Resposta: Não. A conta é exclusiva para movimentação do Projeto. 
+
+Pergunta: O outorgado titular da conta do projeto pode transferir recursos para si mesmo?  
+
+Resposta: Somente se for a título de diárias e passagens, desde que estas despesas estejam aprovadas no Plano de Trabalho. 
+
+Pergunta: Recurso de projeto pode ser aplicado financeiramente para ter rendimentos? 
+Resposta: No caso de Auxílio pesquisa: Não. 
+
+Pergunta: Posso usar qualquer conta em minha titularidade para apresentar como conta do projeto?  
+
+Resposta: Não. A Conta do Projeto será aberta mediante a apresentação de Carta de abertura fornecida pela FAPEAM, pois deve ser exclusiva. 
+
+Pergunta: O que acontece se eu não aplicar o dinheiro do projeto de subvenção? 
+Resposta: A conta do projeto deve ser exclusiva. 
+
+Pergunta: Posso prorrogar meu período de execução financeira no projeto?  
+
+Resposta: Sim. Desde que o pedido seja feito dentro do período estabelecido no Termo de Outorga/Instrumento Jurídico. 
+
+Pergunta: Posso prorrogar meu período de vigência do projeto?  
+
+Resposta: Sim. Desde que o pedido seja feito dentro do período estabelecido no Termo de Outorga/Instrumento Jurídico. 
+
+Pergunta: Posso executar com uma compra que não está aprovada no plano de trabalho e depois justificar na prestação de contas?  
+
+Resposta: Não. As execuções devem seguir conforme o que foi pactuado no Plano de Trabalho; qualquer alteração deve ser previamente comunicada à FAPEAM. 
+
+ 
+
+ 
+
+ 
+
+Pergunta: Comprei uma passagem com recurso do projeto e perdi o comprovante de embarque/desembarque.  
+
+Resposta: Apresentar declaração de voo fornecida pela companhia aérea por onde ocorreu a viagem. 
+
+Pergunta: Como prestar conta do serviço realizado por pessoa física indígena ribeirinho morador de zona rural ramais longe da grande cidade?  
+
+Resposta: A comprovação desta despesa poderá ser feita através do "formulário Colaborador Eventual", disponível no SIGFAPEAM, onde obrigatoriamente deve constar a assinatura do solicitante e a 2ª via da nota fornecida. 
+
+Pergunta: Fiz uma compra e perdi a nota fiscal. O que fazer?  
+
+Resposta: Caso o documento fiscal para comprovação da despesa não seja apresentado, solicitar segunda via diretamente à instituição ou fornecedor. 
+
+Pergunta: Quando o projeto acabar posso manter a conta aberta para uso pessoal? Resposta: Não. O tempo de vida útil da conta do projeto é limitado ao período de vigência do mesmo e ao Termo de encerramento. 
+
+Pergunta: O que é extrato consolidado?  
+
+Resposta: É o documento que apresenta todas as movimentações ocorridas na conta, desde a abertura até o encerramento. 
+
+Pergunta: O que é extrato da conta investimento?  
+
+Resposta: É o documento que descreve as movimentações financeiras realizadas em aplicações relacionadas ao projeto. 
+
+Pergunta: O que é inconformidade?  
+
+Resposta: É o termo técnico utilizado para descrever os erros ocorridos na execução financeira do projeto. 
+
+Pergunta: O que é glosa?  
+
+Resposta: É a penalidade aplicada na recusa de pagamentos no projeto ou retenção de valores devidos, quando os atos do projeto causaram dano ao erário público. 
+
+Pergunta: Qual a diferença entre execução e vigência do projeto?  
+
+Resposta: Vigência: Tempo de duração do projeto. Execução: Período dentro da vigência em que o recurso deve ser utilizado. 
+
+Pergunta: Onde anexar a declaração de guarda?  
+
+Resposta: Anexar no item 8.1 - Gestão de documentos do SIGFAPEAM. 
+
+Pergunta: Onde anexar os extratos da conta corrente e conta investimento (aplicação)? Resposta: Anexar no Lançamento de Despesas, acompanhando a despesa pertinente à cotação, ou no item 8.1 - Gestão de documentos do SIGFAPEAM. 
+
+Pergunta: Onde anexar as cotações?  
+
+Resposta: Anexar no Lançamento de Despesas, acompanhando a despesa pertinente à cotação, ou no item 8.1 - Gestão de documentos do SIGFAPEAM. 
+
+Pergunta: Onde devo encaminhar as pendências cobradas via ofício?  
+
+Resposta: Pelo SIGFAPEAM, através dos campos indicados no ofício, ou via PDF compilado em resposta ao e-mail que recebeu a notificação. 
+
+Pergunta: Qual deve ser a data do atesto?  
+
+Resposta: A mesma data da Nota Fiscal a que se refere. 
+
+Pergunta: Qual nota fiscal devo usar para pagamento de diárias?  
+
+Resposta: As diárias não são comprovadas através de Nota Fiscal, mas sim por meio do Formulário específico. 
+
+Pergunta: Como verificar a data que devo prestar contas no SIGFAPEAM?  
+
+Resposta: O cronograma de prestação de contas está disponível no SIGFAPEAM, no campo 1.2 Relatórios de Prestação de contas. 
+
+Pergunta: O que é custeio e capital?  
+
+Resposta: Custeio: Dinheiro necessário para manutenção de despesas diárias. Capital: Dinheiro destinado à aquisição de bens duráveis. 
+
+Pergunta: O que acontece se eu não fizer a prestação de contas no prazo estabelecido? 
+Resposta: Durante o período de vigência do projeto, a prestação de contas ficará "aguardando resolução de pendências" no SIGFAPEAM. 
+
+Pergunta: O que acontece se eu não regularizar as inconformidades da minha prestação de contas financeira?  
+
+Resposta: De acordo com o Decreto nº 9.283, a entidade pode levar até 12 meses para regularização, sendo prorrogado por igual período. 
+
+Pergunta: Quanto tempo leva para minha prestação de contas financeira ser finalizada? Resposta: Seguindo a normativa em vigor. 
+
+Pergunta: Quais documentos preciso apresentar na prestação de contas?  
+
+Resposta: Extratos bancários, notas fiscais e recibos, além de detalhamento da documentação conforme as diretrizes da FAPEAM. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pergunta: O que caracteriza um projeto como "Concluído e com pendência"?  
+
+Resposta: Após o encerramento da vigência e expirado o prazo para entrega da Prestação de Contas, não havendo o envio por parte do coordenador, o projeto é considerado concluído e com pendências, gerando inadimplência (técnica e/ou financeira) no cadastro do interessado. 
+
+ 
+
+Pergunta: Como o DEAC inicia o processo de análise ao receber a solicitação via ofício da DITEC ou mensagem eletrônica, especialmente nos Programas Institucionais? Resposta: O DEAC inicia o processo de análise ao receber a solicitação via ofício da DITEC ou mensagem eletrônica de forma sistemática. Primeiramente, a equipe do DEAC realiza uma triagem das solicitações recebidas, identificando a natureza e a urgência de cada uma. Em seguida, são designados responsáveis para cada caso, que irão aprofundar a análise conforme os critérios estabelecidos para os Programas Institucionais. 
+
+ 
+
+Pergunta: O que ocorre se faltar algum documento na solicitação recebida?  
+
+Como o DEAC solicita os documentos ausentes ao outorgado ou à Coordenação Institucional?  
+
+Resposta: Se faltar algum documento na solicitação recebida, o DEAC entra em contato com o outorgado ou com a Coordenação Institucional para solicitar os documentos ausentes. A solicitação é feita de maneira formal, geralmente por meio de ofício ou mensagem eletrônica, especificando quais documentos estão faltando e a importância de sua apresentação. Um prazo de até 48h é estabelecido para o envio. 
+
+ 
+
+Pergunta: Quais documentos são necessários na instrução processual dos Programas Institucionais, e qual a importância de cada um deles?  
+
+Resposta: A instrução processual deve conter os seguintes documentos: Histórico de pagamento de bolsas, Termo de Outorga, Relatórios de Atividades, Termo de Encerramento, Termo de Responsabilidade, Bolsa Institucional, e outros instrumentos jurídicos. 
+
+ 
+
+Pergunta: Nos demais programas, como o DEAC realiza a instrução processual e quais informações devem constar no ofício de solicitação e despacho?  
+
+Resposta: O DEAC coleta todos os documentos necessários e verifica sua conformidade. O despacho inclui histórico de pagamento de bolsas, tipo de bolsa paga e informações relativas à aprovação de bolsas. No ofício de solicitação devem constar: identificação do solicitante, descrição do objeto, justificativa, anexos, decisão (deferida ou indeferida) e orientações. 
+
+ 
+
+Pergunta: Após elaborar a instrução processual, qual é o próximo passo do DEAC, e como ele envolve a DITEC, o DEAP e a DAF na análise da solicitação?  
+
+Resposta: O próximo passo é encaminhar a solicitação para análise das Diretorias e Departamentos envolvidos (DITEC, DEAP, DAF). Cada etapa envolve análises técnicas e financeiras específicas, culminando em um parecer final elaborado pelo DEAC. 
+
+ 
+
+Pergunta: O que acontece caso a DITEC acate a sugestão de deferimento? Quais são as próximas tratativas e decisões que o DEAC deve seguir?  
+
+Resposta: Caso a DITEC acate a sugestão de deferimento, o DEAC deve formalizar a decisão, comunicar ao outorgado ou à Coordenação Institucional por mensagem eletrônica, aprovar a solicitação no sistema Sigfapeam e realizar os ajustes necessários, como prazos de execução e liberação de recursos financeiros. 
+
+Pergunta: Se a sugestão de não deferimento for dada, como o pesquisador é notificado e qual o procedimento para informá-lo da decisão?  
+
+Resposta: O DEAC comunica o pesquisador de forma oficial sobre a decisão de não deferimento, incluindo as razões da negativa. São fornecidas orientações sobre possíveis recursos ou ajustes na proposta. O envio é feito por canais oficiais, garantindo o registro da comunicação. 
+
+Pergunta: Quando a sugestão de deferimento for acatada pelo Conselho Diretor da FAPEAM, quais são os passos seguintes para o DEAC?  
+
+Resposta: O DEAC comunica oficialmente o deferimento ao solicitante ou à instituição. No sistema Sigfapeam, ele atualiza cronogramas, inserindo novas datas e revisando dados, salvando e validando as alterações para a execução do projeto. 
+
+ 
+
+Pergunta: Para qual departamento devo encaminhar a solicitação de alteração do Plano de Trabalho?  
+
+Resposta: A solicitação deve ser apresentada, por meio de Ofício à Diretoria Técnico-Científica (DITEC), através do endereço eletrônico, composta pela justificativa técnica pertinente, para apreciação. 
+
+Pergunta: Quais documentos preciso enviar para análise da solicitação?  
+
+Resposta: Após o encaminhamento ao Departamento de Acompanhamento e Avaliação (DEAC), este orientará o responsável e disponibilizará um formulário em formato editável para a proposta de alteração, que deverá ser enviado em PDF dentro do prazo concedido. 
+
+Pergunta: Qual é o procedimento após o envio do Plano de Trabalho alterado?  
+
+Resposta: O plano será analisado e submetido eletronicamente aos membros da Coordenação Institucional e ao parecerista da FAPEAM para avaliação conforme a área de conhecimento. Após os pareceres, o DEAC elaborará o despacho conclusivo para a DITEC. 
+
+Pergunta: Como serei informado(a) sobre o deferimento ou indeferimento da solicitação?  
+
+Resposta: A decisão será comunicada por meio de ofício enviado ao interessado via mensagem eletrônica. 
+
+Pergunta: Onde será disponibilizado o Plano de Trabalho alterado após o deferimento? Resposta: Será inserido digitalmente na Área do Projeto Contratado, no item "9. Gestão de Documentos – 9.1 Documentos", e fará parte integrante da Prestação de Contas Técnica. 
+
+Pergunta: Como substituir o orientador no SIGFAPEAM?  
+
+Resposta: A Coordenação Institucional deve encaminhar um Ofício à DITEC, incluindo as razões para a substituição e a aprovação do novo orientador. 
+
+Pergunta: Como alterar o título do meu projeto no SIGFAPEAM?  
+
+Resposta: A Coordenação Institucional deve enviar um Ofício à DITEC, justificando a mudança e apresentando a anuência do bolsista e do orientador, acompanhado do plano de trabalho atualizado, se necessário. 
+
+Pergunta: Como solicitar prorrogação para a prestação de contas, caso eu não defenda na data prevista?  
+
+Resposta: A Coordenação Institucional deve enviar um Ofício à DITEC informando a nova data de defesa, incluindo a Ata do Colegiado, se houver. 
+
+Pergunta: O que acontece se eu não informar o novo título ou plano de trabalho à FAPEAM?  
+
+Resposta: Durante a prestação de contas, o Produto Final (dissertação/tese) será verificado para conformidade com o plano registrado no SIGFAPEAM. Caso contrário, o relatório será reprovado. 
+
+Pergunta: Por que é importante informar a nova data de defesa à FAPEAM?  
+
+Resposta: A data de entrega do relatório final é calculada com base na data de defesa informada, impactando os prazos para os demais documentos. 
+
+Pergunta: Quais situações podem levar à verificação de não cumprimento das normas pelo bolsista?  
+
+Resposta: O não cumprimento será verificado nos casos de inadimplência da prestação de contas ou descumprimento das normas da FAPEAM, comunicados à Coordenação ou Ouvidoria. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pergunta: Como são apuradas as situações de não cumprimento das normas por parte dos bolsistas?  
+
+Resposta: A FAPEAM procederá com a apuração dos fatos, comunicando a coordenação acadêmica/institucional e/ou coordenador do projeto por meio de mensagem eletrônica e/ou ofício, solicitando esclarecimentos. Caso as normas sejam cumpridas, a bolsa será mantida; caso contrário, ocorrerá o cancelamento no SIGFAPEAM. 
+
+Pergunta: Em caso de denúncias, o que acontece se alegações forem confirmadas ou se não houver resposta da coordenação acadêmica/institucional e/ou coordenador do projeto e do interessado?  
+
+Resposta: Confirmadas as alegações ou não havendo resposta, inicia-se uma instrução processual, sinalizando o descumprimento das normas à DITEC para deliberação e providências subsequentes ao julgamento da bolsa. 
+
+Pergunta: Quando devo realizar a prestação de contas?  
+
+Resposta: O prazo está definido no edital ao qual a bolsa ou projeto está vinculado, ou no instrumento jurídico firmado com a FAPEAM. Também é possível consultar o cronograma no sistema SIGFAPEAM. 
+
+Pergunta: Como faço a prestação de contas?  
+
+Resposta: A prestação de contas técnica deve ser realizada pelo sistema SIGFAPEAM. Tutoriais estão disponíveis no link: https://www.fapeam.am.gov.br/servicos/videos-tutoriais/. 
+
+Pergunta: Como saber se minha prestação de contas foi enviada para análise da FAPEAM?  
+
+Resposta: No SIGFAPEAM, ao acessar os anexos do relatório técnico e identificar o status "Sob avaliação". 
+
+Pergunta: Tenho dúvidas sobre a prestação de contas. A quem devo recorrer?  
+
+Resposta: Dúvidas devem ser encaminhadas ao DEAC, via e-mail ou telefone conforme o instrumento jurídico ao qual está vinculado. Contatos disponíveis no link: https://www.fapeam.am.gov.br/fale-conosco/. 
+
+Pergunta: O que significa o status "Aprovado"?  
+
+Resposta: Indica que o projeto foi executado conforme planejado e que os relatórios técnicos foram considerados satisfatórios pela FAPEAM. 
+
+Pergunta: O que significa o status "Aprovado com Ressalvas"?  
+
+Resposta: Significa que os objetivos principais foram cumpridos, mas há pendências formais que devem ser corrigidas conforme orientação da FAPEAM. 
+
+Pergunta: O que significa o status "Aprovado Cancelamento"?  
+
+Resposta: Indica a aprovação do relatório apresentado após cancelamento do projeto ou bolsa, por motivos como conclusão antecipada ou desistência. 
+
+Pergunta: O que significa o status "Analisado"?  
+
+Resposta: Indica que a equipe técnica avaliou o relatório técnico, verificando o cumprimento das metas e atividades. Não significa, por si só, que a prestação de contas foi aprovada. 
+
+Pergunta: O que significa o status "Em análise"?  
+
+Resposta: Indica que a prestação de contas está sendo avaliada pela equipe técnica da FAPEAM, verificando o cumprimento das metas e resultados. 
+
+ 
+
+ 
+
+Pergunta: O que significa o status "Aguardando Providências"?  
+
+Resposta: O status "Aguardando Providências" indica que a FAPEAM encontrou pendências, inconsistências ou a necessidade de complementação de informações na Prestação de Contas Técnica. O coordenador do projeto deve tomar ações corretivas, como corrigir documentos, adicionar informações faltantes ou esclarecer pontos do relatório técnico. A análise do projeto ficará suspensa até que as providências sejam atendidas. 
+
+Pergunta: Onde verifico a vigência do projeto?  
+
+Resposta: A vigência do projeto pode ser verificada no SIGFAPEAM, junto com o edital relacionado e os prazos definidos no Termo de Outorga. 
+
+Pergunta: O prazo para pedir prorrogação ainda está dentro do período permitido no edital, no Termo de Outorga e/ou nos Acordos de Cooperação e Termos Aditivos? Resposta: É necessário observar o edital correspondente ao projeto, o Termo de Outorga e os Termos Aditivos para confirmar. 
+
+Pergunta: Como solicito a prorrogação de vigência do projeto?  
+
+Resposta: A solicitação deve ser feita via SIGFAPEAM, ou via ofício dirigido à Diretoria Técnico-Científica (DITEC), contendo justificativa e o prazo solicitado pelo(a) outorgado(a). 
+
+Pergunta: O que deve conter na solicitação de prazo?  
+
+Resposta: A solicitação deve incluir: 
+
+As atividades do plano de trabalho que precisam ser realizadas ou incluídas, 
+
+Quantos meses de prorrogação são desejados, 
+
+Se o pedido envolve valores além do contrato. 
+
+Além disso, o Termo Aditivo precisa ser lido cuidadosamente para confirmar os dados pessoais. É necessário providenciar três vias do documento, rubricadas pelo(a) outorgado(a) e pelo(a) dirigente legal da Instituição de vínculo, em todas as páginas. 
+
+Pergunta: Quais as assinaturas necessárias para o novo termo aditivo?  
+
+Resposta: O documento deve conter: 
+
+A assinatura do(a) outorgado(a) em todas as folhas, 
+
+A assinatura e carimbo do(a) dirigente legal da Instituição de vínculo (ou do Reitor, caso seja o dirigente máximo), em todas as folhas. Caso o dirigente esteja sendo substituído, deve-se anexar uma portaria que autorize seus poderes. 
+
+Pergunta: O que acontece se eu deixar de prestar contas do projeto ou bolsa financiadas pela FAPEAM?  
+
+Resposta: A não apresentação da prestação de contas técnica nos prazos estabelecidos pode resultar na inadimplência do coordenador ou bolsista junto à FAPEAM. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pergunta: Quais as consequências da ausência de prestação de contas?  
+
+Resposta: A ausência de prestação de contas pode resultar em inadimplência junto à FAPEAM. Consequências incluem: 
+
+Impedimento de participação em novos editais da FAPEAM até a regularização, 
+
+Cancelamento do apoio financeiro concedido ao projeto ou bolsa, 
+
+Aplicação de medidas administrativas conforme normativos da FAPEAM, podendo incluir sanções mais severas. 
+
+Pergunta: Como o coordenador institucional e/ou coordenador do projeto deve solicitar o cancelamento de bolsa por meio do Sigfapeam?  
+
+Resposta: O coordenador deve acessar o SIGFAPEAM com seu login e senha, localizar o projeto ou bolsa na área do usuário, e selecionar “Solicitações”. Lá, escolhe “Solicitação de Cancelamento de Bolsa” e preenche com informações como motivo e data do cancelamento. É recomendado anexar justificativas como carta assinada pelo bolsista e orientador. A solicitação deve ser enviada pelo SIGFAPEAM até o 10º dia corrido do mês, para que alterações na folha de pagamento dos bolsistas sejam realizadas no mês seguinte. 
+
+Pergunta: Quais informações devem constar no formulário de solicitação de cancelamento de bolsa?  
+
+Resposta: Deve incluir: 
+
+Motivo do cancelamento, como trancamento de curso, desistência ou motivos pessoais, 
+
+Data de encerramento das atividades do bolsista. Além disso, é importante verificar o edital do programa para confirmar exigências específicas ou formulários próprios. Caso necessário, a equipe técnica pode solicitar documentos complementares. 
+
+Pergunta: O que acontece se a solicitação de cancelamento for enviada após a data limite estabelecida nos instrumentos jurídicos?  
+
+Resposta: Se enviada fora do prazo, o coordenador pode ser responsabilizado pela devolução dos valores recebidos pelo bolsista após esse período. Também pode haver inadimplência junto à FAPEAM, afetando participação em futuros editais. É essencial realizar o pedido dentro do prazo previsto, com justificativa clara, para evitar implicações legais ou institucionais. 
+
+ 
+
+
+Pergunta: O que significa "vigência de bolsa" na FAPEAM?  
+
+Resposta: É o período definido no contrato entre a FAPEAM e o bolsista, durante o qual ocorrem compromissos e atividades vinculados à bolsa. O bolsista deve atender às obrigações contratadas nesse intervalo de tempo. 
+
+Pergunta: O que é a FAPEAM?
+Resposta: A Fapeam é a Fundação de Amparo à Pesquisa do Estado do Amazonas. Criada em 2003, ela é a principal agência de fomento à ciência, tecnologia e inovação do estado. 
+Suas principais funções incluem:
+Financiamento de Pesquisas: Apoia projetos científicos básicos e aplicados em áreas como biologia, saúde, humanas, exatas e engenharias.
+Concessão de Bolsas: Oferece suporte financeiro para estudantes desde o ensino básico até a pós-graduação (mestrado e doutorado), além de pesquisadores e técnicos.
+Desenvolvimento Regional: Foca em aumentar o estoque de conhecimento científico para promover o desenvolvimento econômico, social e sustentável do Amazonas.
+Estímulo à Inovação: Incentiva o empreendedorismo de base tecnológica e a transferência de tecnologias, especialmente para o setor rural e interior do estado. 
+Atualmente, a instituição é reconhecida como uma das agências que mais investem em pesquisas sobre a Amazônia no mundo. Você pode consultar editais abertos e resultados no site oficial da Fapeam. 
+Você tem interesse em algum edital específico ou gostaria de saber como solicitar uma bolsa de pesquisa?
+
+ 
+
+Pergunta: É possível solicitar a prorrogação de bolsa na FAPEAM? Como funciona esse processo?  
+
+Resposta: Sim, é possível, dependendo das regras do programa e do edital. A prorrogação permite estender o período de vigência da bolsa sem interrupção no pagamento, desde que justificada e aprovada. O pedido deve ser feito antes do término da vigência original, por meio de solicitação formal com documentos justificando a necessidade e um plano de atividades para o novo período. 
+
+Pergunta: É possível solicitar alterações no plano de trabalho aprovado pela FAPEAM? 
+Resposta: Sim, é possível. Alterações no plano de trabalho podem incluir mudanças no título de dissertação ou tese, prazo de defesa, orientador ou ajustes nas atividades. As solicitações devem ser encaminhadas pela coordenação institucional/outorgado, via Ofício para a Diretoria Técnico-Científica (DITEC), com justificativas técnicas. 
+
+Pergunta: O que é \"remanejamento orçamentário\" em projetos financiados pela FAPEAM?  
+
+Resposta: É o processo de realocar recursos entre diferentes categorias econômicas do orçamento aprovado, sem alterar o valor total concedido. Deve ser justificado, respeitar os limites definidos e autorizado pela FAPEAM. Para mais detalhes, consulte o edital para entender as categorias e limites de remanejamento. 
+
+Pergunta: Como funciona o remanejamento orçamentário durante a execução de um projeto de pesquisa na FAPEAM?  
+
+Resposta: Pode incluir exclusões, inclusões, ajustes de itens ou transferência de recursos entre categorias econômicas, como capital (equipamentos) e custeio (serviços, diárias). O pedido deve ser feito via SIGFAPEAM, com justificativa detalhada. Após análise técnica e aprovação, as alterações serão registradas no plano de trabalho. O pesquisador será notificado via SIGFAPEAM sobre a decisão final. 
+
+ 
+
+Pergunta: Na FAPEAM, é possível realizar remanejamento entre as rubricas de Capital e Custeio?  
+
+Resposta: Não, na FAPEAM não é permitido realizar remanejamento entre as rubricas de Capital e Custeio. Capital corresponde a Material Permanente e Material Bibliográfico, enquanto Custeio abrange Diárias, Passagens, Material de Consumo e Serviços de Terceiros. Contudo, é possível fazer alterações orçamentárias dentro de uma mesma rubrica (Capital ou Custeio) mediante solicitação no Sigfapeam. 
+
+Pergunta: Como solicitar a implementação de uma bolsa aprovada em edital?  
+
+Resposta: O coordenador do projeto deve solicitar pelo SIGFAPEAM, anexando os documentos obrigatórios do edital, como comprovante de matrícula, CPF do bolsista e termo de compromisso assinado. O DEAP analisará a solicitação e notificará o status no sistema. 
+
+Pergunta: É possível substituir um bolsista durante a execução do projeto?  
+
+Resposta: Sim, a substituição é permitida se prevista no edital. O coordenador deve formalizar a solicitação no SIGFAPEAM com justificativa e documentos do novo bolsista. Após análise do DEAP, a substituição será registrada no sistema. 
+
+Pergunta: Até quando posso solicitar a bolsa?  
+
+Resposta: Durante o período de vigência do projeto, seguindo as cotas disponíveis. O pedido deve ser feito até o dia 10 de cada mês para pagamento no mês seguinte. 
+
+Pergunta: Quanto tempo demora para o bolsista receber a bolsa após envio da documentação?  
+
+Resposta: Se a solicitação for feita dentro do prazo estipulado, o bolsista receberá no mês subsequente. 
+
+Pergunta: Posso receber mais de uma bolsa?  
+
+Resposta: Não, acumular bolsas da FAPEAM com outras agências nacionais, internacionais ou organismos internacionais não é permitido. 
+
+Pergunta: Como é feita a análise e seleção das propostas submetidas em editais da FAPEAM?  
+
+Resposta: A análise segue estas etapas: 
+
+Análise documental (enquadramento): Verificação de conformidade com os requisitos do edital. 
+
+Análise de mérito científico: Avaliação por consultores Ad Hoc. 
+
+Classificação e priorização: Baseada nos critérios do edital. 
+
+Aprovação final: Deliberação pelo Conselho Diretor da FAPEAM. 
+
+ 
+
+ 
+
+Pergunta: Posso editar minha proposta após a submissão?  
+
+Resposta: Não, após clicar em "Enviar", a proposta é considerada oficialmente submetida e não pode mais ser editada. 
+
+Pergunta: Como sei se minha proposta foi submetida com sucesso?  
+
+Resposta: Ao finalizar a submissão, o sistema SIGFAPEAM gera um comprovante de envio, e o status da proposta é atualizado para "Sob enquadramento" na aba "Minhas Propostas". É recomendável salvar o comprovante. 
+
+Pergunta: O que fazer se ocorrer um problema técnico no SIGFAPEAM durante a submissão?  
+
+Resposta: O pesquisador deve registrar o erro com capturas de tela, entrar em contato com o suporte técnico da FAPEAM ou com o DEAP imediatamente, relatar o problema e pedir ajuda antes do prazo final de submissão. 
+
+Pergunta: Como recuperar a senha do SIGFAPEAM?  
+
+Resposta: Solicite via e-mail (deap@fapeam.am.gov.br), informando nome e CPF. Um link de redefinição de senha será enviado. 
+
+Pergunta: Minha proposta não foi enquadrada, o que fazer?  
+
+Resposta: Verifique o motivo do não enquadramento: O DEAP envia os motivos via e-mail com um parecer técnico. 
+
+Solicite reconsideração (se permitido): Se o edital permitir, apresente a solicitação de reconsideração, geralmente em até 5 dias úteis após o resultado. 
+
+Pergunta: Como é feito o pedido de reconsideração?  
+
+Resposta: Verifique o prazo: O prazo está especificado no edital e é essencial respeitá-lo. 
+
+Prepare uma justificativa técnica: Explique os motivos do pedido, com argumentos baseados no edital, incluindo documentos complementares, se necessário. 
+
+Submeta pelo SIGFAPEAM: Utilize a aba correspondente no sistema, anexando justificativa e documentos. 
+
+Acompanhe o status: O pedido será analisado, e o resultado informado pelo SIGFAPEAM ou e-mail. 
+
+ 
+
+ 
+
+ 
+
+Pergunta: É possível acumular bolsas da FAPEAM com outras fontes de financiamento? 
+Resposta: Não é permitido acumular bolsas da FAPEAM com bolsas de agências nacionais ou internacionais, nem com remuneração advinda de organismos internacionais. O acúmulo é permitido somente no caso de vínculo empregatício formal com instituições públicas, desde que o bolsista cumpra as horas dedicadas às atividades relacionadas à bolsa da FAPEAM. 
+
+Pergunta: Sob quais condições uma bolsa da FAPEAM pode ser cancelada?  
+
+Resposta: A bolsa pode ser cancelada caso o bolsista não cumpra as obrigações exigidas pelo edital e o Termo de Compromisso, como apresentar relatórios periódicos, manter vínculo regular com a instituição de pesquisa ou descumprir critérios éticos na execução do projeto. 
+
+Pergunta: A FAPEAM possui editais de chamada internacional?  
+
+Resposta: Sim, a FAPEAM participa de chamadas internacionais de pesquisa e inovação. Informações detalhadas sobre esses editais, como condições e requisitos, estão disponíveis no SIGFAPEAM e na página oficial da instituição. 
+
+Pergunta: Como solicitar financiamento para pesquisa internacional pela FAPEAM? 
+Resposta: Pesquisadores devem ficar atentos aos editais internacionais lançados pela FAPEAM. O processo de submissão inclui apresentação de projeto com foco em colaboração internacional e os requisitos podem incluir acordos institucionais ou apoio de parceiros internacionais. 
+
+ 
+
+ 
+
+Pergunta: Posso acumular a bolsa com outra fonte de renda ou trabalho?  
+
+Resposta: Não, a FAPEAM não permite que bolsistas possuam vínculo empregatício, recebam salário ou remuneração por atividades de qualquer natureza, acumulem auxílio ou bolsa de outro programa ou realizem estágio remunerado durante a vigência da bolsa. 
+
+Pergunta: Posso perder a bolsa se não cumprir algum requisito? Quais são os requisitos obrigatórios?  
+
+Resposta: Sim, o bolsista pode perder a bolsa por insuficiência de desempenho acadêmico, baixo desempenho no projeto, não cumprimento das normas do programa, desistência, falecimento ou obtenção de vínculo empregatício. 
+
+Pergunta: Como posso acompanhar o processo de implementação da bolsa?  
+
+Resposta: É possível acompanhar o status da bolsa no SIGFAPEAM. Além disso, os canais de contato com a FAPEAM incluem e-mail (deap@fapeam.am.gov.br), telefone ((92) 3878-4012/4019) e atendimento presencial na sede da FAPEAM, em Manaus. 
+
+Pergunta: O status da minha bolsa no sistema não mudou. Isso é normal? Quanto tempo leva para atualizar?  
+
+Resposta: Sim, é normal que demore um pouco. Após envio da documentação, o setor responsável realiza a análise técnica e administrativa, que pode levar alguns dias ou semanas, dependendo da demanda. 
+
+Pergunta: Já enviei toda a documentação, quanto tempo demora para começar a receber a bolsa?  
+
+Resposta: Após análise e validação da documentação, o pagamento é iniciado conforme os prazos estabelecidos no calendário oficial de atividades do programa. 
+
+ 
+
+ 
+
+ 
+
+Pergunta: O que acontece se eu não fizer a prestação de contas no prazo estabelecido?  
+
+Resposta: Durante o período de vigência do projeto, sua prestação de contas fica no status de "aguardando resolução de pendências" no SIGFAPEAM. 
+
+Pergunta: E o que significa "aguardando resolução de pendências"?  
+
+Resposta: Esse status indica que há questões para resolver antes que sua prestação de contas seja considerada regular. Pode ser documentação, justificativas financeiras ou outros requisitos. 
+
+Pergunta: Quais são as consequências se eu não resolver essas pendências?  
+
+Resposta: Bem, você pode enfrentar sanções como a suspensão de novos financiamentos, restrições administrativas ou até penalidades legais, conforme as regras da FAPEAM. 
+
+Pergunta: Então, como faço para resolver essas pendências da minha prestação de contas?  
+
+Resposta: É simples. Primeiro, acesse sua conta no SIGFAPEAM e veja os detalhes das pendências. Depois, siga as instruções para corrigir ou enviar documentos. Se precisar de ajuda, recomendo entrar em contato com a FAPEAM. 
+
+Pergunta: Há um prazo limite para resolver essas pendências?  
+
+Resposta: Normalmente, sim. Eles estipulam prazos específicos, então verifique no sistema e aja o quanto antes. 
+
+Pergunta: Com quem posso falar para tirar dúvidas?  
+
+Resposta: Você pode entrar em contato com a equipe de suporte da FAPEAM. Eles devem ter canais de atendimento como e-mail, telefone ou suporte presencial. 
+
+Pergunta: Preciso de ajuda para preparar a prestação de contas. Alguma sugestão? 
+
+Resposta: Claro! Pode ser útil consultar um contador ou especialista em gestão financeira. Além disso, os guias da FAPEAM são uma ótima fonte de orientação. 
+
+ 
+Pergunta: O que acontece se eu não fizer a prestação de contas no prazo estabelecido?
+Resposta: Durante a vigência do projeto, sua prestação de contas fica no status de "aguardando resolução de pendências" no SIGFAPEAM.
+Isso significa que sua prestação ainda não está regularizada e requer atenção.
+Pergunta: E o que significa "aguardando resolução de pendências"?
+Resposta: Esse status indica que há questões para resolver antes que sua prestação de contas seja considerada regular. Pode ser documentação, justificativas financeiras ou outros requisitos.
+Quanto mais rápido resolver, menor será o impacto no projeto.
+Pergunta: Quais são as consequências se eu não resolver essas pendências?
+Resposta: Bem, você pode enfrentar sanções como a suspensão de novos financiamentos, restrições administrativas ou até penalidades legais, conforme as regras da FAPEAM.
+Essas consequências podem afetar sua participação em futuros projetos e financiamentos.
+
+Pergunta: Então, como faço para resolver essas pendências?
+Resposta: É simples. Primeiro, acesse sua conta no SIGFAPEAM e veja os detalhes das pendências. Depois, siga as instruções para corrigir ou enviar documentos. Se precisar de ajuda, recomendo entrar em contato com a FAPEAM.
+Ter uma checklist pode facilitar o processo e evitar esquecimentos.
+Pergunta: Há um prazo limite para resolver essas pendências?
+Resposta: Normalmente, sim. Eles estipulam prazos específicos, então verifique no sistema e aja o quanto antes.
+Se perder o prazo, pode ser mais difícil regularizar sua situação.
+
+
+Pergunta: Com quem posso falar para tirar dúvidas?
+Resposta: Você pode entrar em contato com a equipe de suporte da FAPEAM. Eles devem ter canais de atendimento como e-mail, telefone ou suporte presencial.
+Ter seus documentos organizados antes de contatá-los pode agilizar a resposta.
+Pergunta: Preciso de ajuda para preparar a prestação de contas. Alguma sugestão?
+Resposta: Claro! Pode ser útil consultar um contador ou especialista em gestão financeira. Além disso, os guias da FAPEAM são uma ótima fonte de orientação.
+Um profissional pode ajudar a evitar erros que comprometam sua prestação de contas.
+
+Pergunta: A prestação de contas precisa ser feita apenas no final do projeto?
+Resposta: Não necessariamente. Algumas fases do projeto podem exigir prestações de contas periódicas. Consulte o regulamento da FAPEAM para confirmar as exigências no seu caso.
+Prestar contas regularmente pode evitar problemas futuros.
+Pergunta: Quais documentos geralmente são exigidos na prestação de contas?
+Resposta: Normalmente são exigidos comprovantes financeiros, relatórios de execução, notas fiscais e eventuais justificativas de gastos.
+Organizar esses documentos desde o início do projeto facilita a prestação de contas.
+
+
+Pergunta: E se eu perceber que cometi um erro na prestação de contas já enviada?
+Resposta: Se identificar um erro, entre em contato com a FAPEAM imediatamente e siga as instruções para corrigir a informação.
+Corrigir erros rapidamente pode evitar complicações no processo.
+Pergunta: Posso pedir uma prorrogação para entregar a prestação de contas?
+Resposta: Em alguns casos, sim. Mas isso depende das regras da FAPEAM e da justificativa apresentada.
+Solicitar uma prorrogação com antecedência aumenta as chances de aprovação.
+
+
+Pergunta: O que acontece se minha prestação de contas for considerada irregular?
+Resposta: A irregularidade pode resultar em sanções, exigência de devolução de recursos ou até impedimento de participar de futuros projetos.
+Garantir que tudo esteja correto antes do envio pode evitar esses problemas.
+Pergunta: Se minha prestação de contas estiver correta, posso solicitar novos financiamentos sem problemas?
+Resposta: Sim, uma prestação de contas bem feita melhora sua reputação e pode facilitar a aprovação de novos projetos no futuro.
+Manter um bom histórico financeiro pode ser um diferencial para novos financiamentos.
+
+
+Pergunta: Quais são as principais exigências na prestação de contas da FAPEAM?
+Resposta: A prestação de contas deve incluir comprovantes de despesas, relatórios financeiros e justificativas que comprovem o uso adequado dos recursos.
+Ter atenção às exigências desde o início do projeto evita problemas futuros.
+Pergunta: Como saber se minha prestação de contas foi aceita?
+Resposta: O status da prestação de contas pode ser acompanhado no SIGFAPEAM. Se houver pendências, o sistema indicará o que precisa ser ajustado.
+Verificar o sistema regularmente ajuda a evitar atrasos na aprovação.
+
+Pergunta: O que acontece se eu perder um comprovante financeiro importante?
+Resposta: Se isso acontecer, pode ser necessário apresentar uma justificativa ou um documento alternativo. O ideal é entrar em contato com a FAPEAM para orientação.
+Manter cópias digitais dos comprovantes pode evitar esse tipo de problema.
+Pergunta: E se houver um erro na documentação enviada?
+Resposta: Caso perceba um erro, corrija o documento e envie a versão correta dentro do prazo permitido. Entre em contato com a equipe da FAPEAM se precisar de ajuda.
+Revisar tudo antes do envio reduz as chances de precisar fazer ajustes depois.
+
+
+Pergunta: Existe um tempo médio para que a prestação de contas seja analisada?
+Resposta: O prazo pode variar conforme o volume de processos, mas normalmente há um período definido para análise. Consulte o sistema para acompanhar o andamento.
+Enviar tudo corretamente desde o início pode agilizar a avaliação.
+Pergunta: A prestação de contas pode ser rejeitada?
+Resposta: Sim, se houver inconsistências, falta de documentação ou uso inadequado dos recursos. Em casos assim, pode ser necessário regularizar a situação para evitar sanções.
+Seguir as orientações da FAPEAM desde o início é a melhor forma de evitar problemas.
+
+Pergunta: Quanto tempo leva para que a prestação de contas seja avaliada?
+Resposta: O tempo de análise pode depender da demanda de processos em andamento, mas geralmente há um prazo estabelecido para essa verificação. Consulte o SIGFAPEAM para acompanhar o status.
+Enviar documentos corretos e organizados pode acelerar a aprovação.
+Pergunta: Existe a possibilidade de minha prestação de contas ser recusada?
+Resposta: Sim, caso haja erros nos registros, falta de informações ou utilização inadequada dos recursos. Se isso ocorrer, será necessário corrigir os problemas para garantir a regularização.
+Atentar-se às exigências da FAPEAM desde o início ajuda a evitar contratempos.
+
+Pergunta: Qual é o prazo médio para que minha prestação de contas seja avaliada?
+Resposta: O tempo de análise pode depender da quantidade de processos em andamento, mas normalmente há um período estipulado para a verificação. Consulte o SIGFAPEAM para acompanhar a situação.
+Garantir que toda a documentação esteja correta pode contribuir para uma análise mais rápida.
+Pergunta: Existe risco de minha prestação de contas ser recusada?
+Resposta: Sim, caso sejam identificadas inconsistências nos registros, ausência de documentos essenciais ou uso inadequado dos recursos. Se isso ocorrer, será necessário realizar ajustes para regularizar a situação.
+Fazer a conferência dos dados antes da submissão pode ajudar a evitar problemas
+
+Pergunta: Qual é o tempo estimado para que minha prestação de contas seja verificada?
+Resposta: O período de análise pode variar conforme a quantidade de processos em andamento, mas há prazos definidos para essa avaliação. Acompanhe o status no SIGFAPEAM para ter informações atualizadas.
+Uma documentação clara e completa pode acelerar a aprovação.
+Pergunta: Minha prestação de contas pode ser recusada por erro na documentação?
+Resposta: Sim, se houver dados inconsistentes, falta de documentos essenciais ou uso inadequado dos recursos. Caso isso ocorra, será necessário corrigir os erros para regularizar a situação.
+Verificar todos os detalhes antes do envio pode evitar retrabalho.
+
+
+Pergunta: Depois de enviar minha prestação de contas, como posso acompanhar a análise?
+Resposta: O acompanhamento pode ser feito diretamente pelo sistema SIGFAPEAM. Caso haja pendências, elas serão informadas para que possam ser corrigidas.
+Consultar regularmente o sistema evita surpresas.
+Pergunta: Que tipo de erro pode comprometer a aprovação da prestação de contas?
+Resposta: Erros comuns incluem a falta de comprovantes financeiros, registros incorretos ou justificativas incompletas para despesas. Esses problemas podem impedir a regularização do processo.
+Organizar os documentos desde o início ajuda a evitar contratempos.
+
+
+
+Pergunta: Depois de enviar minha prestação de contas, como posso acompanhar a análise?
+Resposta: O acompanhamento pode ser feito diretamente pelo sistema SIGFAPEAM. Caso haja pendências, elas serão informadas para que possam ser corrigidas.
+Consultar regularmente o sistema evita surpresas.
+Pergunta: Que tipo de erro pode comprometer a aprovação da prestação de contas?
+Resposta: Erros comuns incluem a falta de comprovantes financeiros, registros incorretos ou justificativas incompletas para despesas. Esses problemas podem impedir a regularização do processo.
+Organizar os documentos desde o início ajuda a evitar contratempos.
+
+Pergunta: Depois que eu mando a prestação de contas, como descubro se deu tudo certo?
+Resposta: Fique de olho no SIGFAPEAM, onde você pode acompanhar o status da sua prestação. Se tiver alguma pendência, o sistema avisa e permite ajustes.
+Consultar regularmente evita problemas futuros.
+Pergunta: Eles demoram muito pra conferir e aprovar?
+Resposta: O tempo de análise pode variar conforme a demanda, mas há um prazo definido. Acompanhe pelo sistema e verifique se tudo está correto para evitar atrasos.
+Uma prestação de contas bem organizada facilita a aprovação.
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pergunta: E se eu tiver problemas para acessar o sistema SIGFAPEAM?  
+
+Resposta: Nesse caso, entre em contato com o suporte técnico da FAPEAM. Normalmente, eles têm canais específicos para ajudar com questões de acesso ao sistema. 
+
+Pergunta: Existe algum material ou guia para ajudar na prestação de contas?  
+
+Resposta: Sim, a FAPEAM costuma disponibilizar manuais e guias no site oficial. Esses materiais explicam o passo a passo para cumprir as exigências. É sempre bom dar uma olhada neles. 
+
+Pergunta: O que acontece se eu não prestar contas ao final do projeto?  
+
+Resposta: Essa é uma situação séria. O descumprimento das obrigações pode levar a sanções administrativas, bloqueio de novos financiamentos e até problemas legais. É muito importante regularizar tudo antes do prazo final. 
+
+Pergunta: E se eu precisar de mais tempo para prestar contas?  
+
+Resposta: É possível que você solicite um prazo adicional, dependendo das regras do programa. Você deve enviar uma solicitação formal à FAPEAM explicando o motivo e aguardando aprovação. 
+
+Pergunta: Existe algum recurso para contestar penalidades relacionadas à prestação de contas?  
+
+Resposta: Sim, normalmente você pode entrar com um recurso administrativo. É necessário apresentar justificativas e documentos que comprovem sua situação para que o caso seja reavaliado. 
+
+Pergunta: Parece bastante coisa! Você acha que é complicado?  
+
+Resposta: A princípio pode parecer, mas se você seguir os guias, organizar os documentos com antecedência e buscar ajuda quando necessário, fica muito mais fácil. Com planejamento, tudo se resolve! 
+
+
+
+Pergunta: E se eu não conseguir resolver as pendências dentro do prazo?
+Resposta: Nesse caso, o ideal é entrar em contato com a FAPEAM o quanto antes. Explique a situação e veja a possibilidade de solicitar uma extensão ou orientação adicional.
+
+Pergunta: Existe algum prazo específico que eu possa usar como referência?
+Resposta: Os prazos geralmente variam de acordo com o programa ou edital. É importante consultar o SIGFAPEAM para confirmar a data exata e agir com antecedência.
+
+Pergunta: Caso eu já tenha perdido o prazo, ainda consigo corrigir as pendências?
+Resposta: Em algumas situações, é possível apresentar justificativas formais para reverter o status ou evitar penalidades. A FAPEAM pode avaliar caso a caso, então vale a pena entrar em contato.
+
+Pergunta: O que mais posso fazer para evitar problemas na prestação de contas?
+Resposta: Organização é tudo! Mantenha registros financeiros atualizados, revise os documentos com calma e use os guias da FAPEAM como apoio. E, claro, não deixe tudo para a última hora.
+
+Pergunta: Se o sistema SIGFAPEAM estiver fora do ar, como devo proceder?
+Resposta: Nesse caso, recomendo entrar em contato com o suporte técnico da FAPEAM imediatamente. Eles podem te informar sobre o problema e orientá-lo com soluções alternativas.
+
+
+Pergunta: O que acontece se eu não fizer a prestação de contas no prazo estabelecido?
+Resposta: Durante o período de vigência do projeto, sua prestação de contas permanece com o status "aguardando resolução de pendências" no SIGFAPEAM.
+
+Pergunta: O que significa "aguardando resolução de pendências"?
+Resposta: Esse status indica que existem questões pendentes que precisam ser resolvidas antes que sua prestação de contas seja considerada regular. Isso pode incluir documentação, justificativas financeiras ou outros requisitos.
+
+Pergunta: Quais são as consequências se eu não resolver essas pendências?
+Resposta: Você pode enfrentar sanções, como suspensão de novos financiamentos, restrições administrativas ou até penalidades legais, conforme previsto pelas regras da FAPEAM.
+
+Pergunta: Como faço para resolver essas pendências na prestação de contas?
+Resposta: Primeiro, acesse sua conta no SIGFAPEAM e verifique as pendências específicas. Siga as instruções para corrigir ou enviar os documentos necessários. Se tiver dificuldades, entre em contato com a FAPEAM.
+
+Pergunta: Há um prazo limite para resolver essas pendências?
+Resposta: Sim, geralmente existe um prazo estipulado. É fundamental verificar no sistema e agir prontamente para evitar complicações.
+
+Pergunta: Com quem posso falar para tirar dúvidas?
+Resposta: Recomendo entrar em contato com a equipe de suporte da FAPEAM. Eles oferecem atendimento via e-mail, telefone ou presencial, dependendo das opções disponíveis.
+
+Pergunta: Preciso de ajuda para preparar minha prestação de contas. Alguma sugestão?
+Resposta: Claro! Consultar um contador ou um especialista em gestão financeira pode ser uma ótima ideia. Além disso, os guias disponibilizados pela FAPEAM no site oficial são uma excelente fonte de orientação.
+
+Pergunta: O que acontece se eu não realizar a prestação de contas dentro do prazo estipulado?
+Resposta: Enquanto o projeto estiver ativo, sua prestação de contas será exibida com o status "aguardando resolução de pendências" no sistema SIGFAPEAM.
+
+Pergunta: Pode me explicar o que significa esse status de "aguardando resolução de pendências"?
+Resposta: Claro! Esse status indica que existem detalhes ou documentos pendentes que precisam ser resolvidos para que a prestação de contas seja finalizada corretamente.
+
+Pergunta: Quais problemas posso enfrentar caso não regularize essas pendências?
+Resposta: Você pode ser sujeito a sanções, como restrições administrativas, suspensão de futuros financiamentos e, em situações mais graves, penalidades legais.
+
+Pergunta: Qual o procedimento para corrigir as pendências da prestação de contas?
+Resposta: O primeiro passo é acessar sua conta no SIGFAPEAM e conferir as informações sobre o que precisa ser ajustado. Depois, é só seguir as orientações para enviar os documentos ou corrigir os problemas.
+
+Pergunta: Existe um prazo para resolver as pendências?
+Resposta: Sim, normalmente há prazos definidos para cada situação. É essencial verificar as informações no sistema e agir rapidamente para evitar complicações.
+
+Pergunta: Quem pode me ajudar caso eu tenha dúvidas ou dificuldades?
+Resposta: Você pode buscar suporte diretamente com a FAPEAM. Eles oferecem atendimento por diferentes canais, como e-mail, telefone e, em alguns casos, presencial.
+
+Pergunta: Estou precisando de auxílio para organizar minha prestação de contas. Alguma recomendação?
+Resposta: Sim! Contar com um contador ou especialista em gestão financeira pode ser muito útil. Além disso, os guias fornecidos pela FAPEAM são excelentes recursos para quem deseja realizar tudo de forma precisa.
+
+
+Pergunta: Se eu não resolver as pendências da prestação de contas, isso pode afetar meu próximo financiamento?
+Resposta: Sim, isso pode influenciar diretamente. Pendências não resolvidas podem resultar em bloqueios ou restrições administrativas para novos financiamentos na FAPEAM.
+
+Pergunta: Posso pedir ajuda diretamente à equipe da FAPEAM para corrigir minhas pendências?
+Resposta: Com certeza! A equipe de suporte da FAPEAM está lá para ajudar. Entre em contato com eles por e-mail ou telefone e explique sua situação para obter orientações específicas.
+
+Pergunta: O SIGFAPEAM pode ser atualizado enquanto estou resolvendo as pendências?
+Resposta: Sim, o sistema é atualizado constantemente. Se você corrigir algo ou enviar documentos, as alterações devem aparecer no status dentro de alguns dias úteis.
+
+Pergunta: E se eu precisar contestar uma decisão da FAPEAM, como devo proceder?
+Resposta: Você pode apresentar um recurso administrativo. Certifique-se de incluir todas as justificativas e documentos necessários para apoiar sua solicitação.
+
+Pergunta: Existe algum tipo de guia que explica passo a passo os procedimentos?
+Resposta: Sim, a FAPEAM oferece manuais detalhados em seu site oficial. Esses materiais são úteis para orientar você em cada etapa do processo.
+
+Pergunta: Como posso evitar pendências na prestação de contas no futuro?
+Resposta: Organização é fundamental. Mantenha todos os registros financeiros atualizados, revise cuidadosamente os documentos e siga os guias da FAPEAM para garantir que tudo seja feito corretamente desde o início.
+
+Pergunta: Como a FAPEAM apura casos de não cumprimento das normas pelos bolsistas?
+Resposta: A apuração é feita comunicando a coordenação acadêmica/institucional e/ou o coordenador do projeto por mensagem eletrônica e/ou ofício, solicitando esclarecimentos. Se as normas forem cumpridas, a bolsa será mantida. Caso contrário, o cancelamento será registrado no SIGFAPEAM.
+
+Pergunta: E se houver denúncias, o que acontece caso as alegações sejam confirmadas ou não haja resposta da coordenação ou do bolsista?
+Resposta: Se as alegações forem confirmadas ou não houver resposta, inicia-se um processo de instrução que informa o descumprimento das normas à DITEC. A partir disso, são tomadas providências e a deliberação sobre a bolsa.
+
+Pergunta: Quando deve ser feita a prestação de contas?
+Resposta: O prazo está detalhado no edital correspondente ao projeto ou bolsa, ou no instrumento jurídico firmado com a FAPEAM. É possível verificar o cronograma diretamente no sistema SIGFAPEAM.
+
+Pergunta: Como é realizada a prestação de contas?
+Resposta: Deve ser feita pelo sistema SIGFAPEAM. Tutoriais para orientação estão disponíveis no link: Tutoriais da FAPEAM.
+
+Pergunta: Como confirmo que minha prestação de contas foi enviada para análise?
+Resposta: Basta acessar os anexos do relatório técnico no SIGFAPEAM e verificar o status "Sob avaliação".
+
+Pergunta: Tenho dúvidas relacionadas à prestação de contas. Com quem posso falar?
+Resposta: Você pode contatar o DEAC por e-mail ou telefone, de acordo com o instrumento jurídico. Para mais informações, acesse: Fale conosco - FAPEAM.
+
+Pergunta: O que significa o status "Aprovado"?
+Resposta: Significa que o projeto foi executado como planejado e os relatórios técnicos foram aprovados pela FAPEAM.
+
+Pergunta: E o status "Aprovado com Ressalvas"?
+Resposta: Indica que os objetivos principais foram atingidos, mas há pendências formais que precisam ser corrigidas seguindo a orientação da FAPEAM.
+
+Pergunta: O que é o status "Aprovado Cancelamento"?
+Resposta: Refere-se à aprovação do relatório após o cancelamento do projeto ou bolsa, seja por conclusão antecipada ou desistência.
+
+Pergunta: O que quer dizer o status "Analisado"?
+Resposta: Esse status mostra que a equipe técnica revisou o relatório técnico, verificando o cumprimento das metas. No entanto, isso não implica necessariamente a aprovação da prestação de contas.
+
+Pergunta: E o status "Em análise"?
+Resposta: Representa que a equipe técnica da FAPEAM está avaliando a prestação de contas para verificar se as metas e os resultados foram atendidos.
+
+
+
+Pergunta: O que acontece se um bolsista não cumprir as normas?
+Resposta: A FAPEAM vai investigar o caso, comunicando a coordenação acadêmica ou o coordenador do projeto por e-mail ou ofício, pedindo esclarecimentos. Se tudo for resolvido, a bolsa continua. Caso contrário, o cancelamento é registrado no SIGFAPEAM.
+
+Pergunta: E se houver denúncias e as alegações forem confirmadas ou ninguém responder?
+Resposta: Aí, um processo é aberto. Isso sinaliza o descumprimento das normas para a DITEC, que toma as decisões necessárias sobre a bolsa.
+
+Pergunta: Quando devo prestar contas?
+Resposta: O prazo está no edital ou no contrato firmado com a FAPEAM. Você também pode verificar o cronograma no sistema SIGFAPEAM.
+
+Pergunta: Como faço para prestar contas?
+Resposta: É só usar o SIGFAPEAM! Ah, e tem tutoriais para te ajudar: Vídeos tutoriais da FAPEAM.
+
+Pergunta: Como sei que minha prestação de contas foi enviada para análise?
+Resposta: Ao acessar o SIGFAPEAM, verifique nos anexos do relatório técnico. O status "Sob avaliação" significa que já está em análise.
+
+Pergunta: Estou com dúvidas sobre a prestação de contas. Com quem falo?
+Resposta: Entre em contato com o DEAC por e-mail ou telefone. Os contatos estão aqui: Fale conosco - FAPEAM.
+
+Pergunta: O que significa o status "Aprovado"?
+Resposta: Quer dizer que tudo saiu como planejado! Os relatórios foram bem avaliados pela FAPEAM e o projeto foi concluído com sucesso.
+
+Pergunta: E o status "Aprovado com Ressalvas"?
+Resposta: Isso mostra que você atingiu os objetivos, mas há pendências formais que precisam ser corrigidas conforme as instruções da FAPEAM.
+
+Pergunta: E o que é "Aprovado Cancelamento"?
+Resposta: Significa que o relatório foi aceito após o cancelamento do projeto ou da bolsa, geralmente por conclusão antecipada ou desistência.
+
+Pergunta: Status "Analisado"? O que quer dizer?
+Resposta: Quer dizer que o relatório foi revisado pela equipe técnica. Mas atenção: isso não significa que a prestação de contas foi aprovada.
+
+Pergunta: O que significa "Em análise"?
+Resposta: Mostra que a equipe técnica da FAPEAM está avaliando a prestação de contas para verificar metas e resultados.
+
+
+
+
+
+
+
+
+
+
+
+
+Pergunta: Como alterar dados bancários auxílio devido ao fechamento da agência?
+Resposta: O pedido da alteração de dados bancários deverá ser solicitado via mensagem eletrônica, através do e-mail: deof@fapeam.am.gov.br, mediante justificativa técnica e anexo de comprovantes da nova conta que deverá ser vinculada para o auxílio-pesquisa. O outorgado deve aguardar a confirmação das atualizações pela FAPEAM.
+Pergunta: Como ter acesso ao Termo de Outorga assinado?
+Resposta: Após a publicação do Termo de Outorga no Diário Oficial do Estado (DOE), o documento ficará disponível no sistema Sigfapeam, na área do Projeto Contratado, no item Gestão de Documentos.
+Pergunta: Qual o prazo para recebimento do recurso do auxílio pesquisa?
+Resposta: A FAPEAM assumirá o compromisso de efetivar a liberação dos recursos de auxílio-pesquisa de acordo com os termos de cada edital e/ou resolução.
+Pergunta: A conta só pode ser corrente para receber bolsa/auxílio?
+Resposta: Seguir as orientações enviadas durante a implementação do auxílio-pesquisa quanto ao tipo de conta bancária a ser aberta. Em caso de dúvidas, entre em contato com o Departamento de Operação de Fomento (DEOF).
+
+Pergunta: O banco só pode ser Bradesco?
+Resposta: A instituição bancária será indicada pela FAPEAM para o pagamento dos auxílios concedidos pela Fundação. Assim, a partir da etapa de contratação das propostas aprovadas, o outorgado contemplado receberá as orientações por mensagem eletrônica acerca das providências para abertura de conta.
+Pergunta: Os comprovantes de abertura da conta para receber o auxílio pesquisa podem ser enviados por e-mail?
+Resposta: Sim. Os comprovantes podem ser enviados para o e-mail: deof@fapeam.am.gov.br e devem estar legíveis e sem rasuras.
+Pergunta: A conta pode ser aberta em nome de outra pessoa?
+Resposta: Não. A conta deverá ser no nome do(a) pesquisador(a) que foi aprovado(a) em decisão do referido programa.
+Pergunta: Posso usar uma conta que já tenho para receber o auxílio pesquisa?
+Resposta: Não. Os recursos financeiros concedidos serão depositados em nome do outorgado, em conta corrente específica para o projeto. Dessa forma, orientamos que uma nova conta seja aberta e destinada a essa finalidade.
+Pergunta: Como solicitar contracheques?
+Resposta: Desde 2019, a FAPEAM não emite contracheques, pois se trata de pagamento de bolsas. Orientamos que seja solicitada uma Declaração de Bolsista, contendo informações sobre o tipo de bolsa, período e valor, junto ao Departamento de Acompanhamento e Avaliação (DEAC).
+
+Pergunta: Como solicitar o Comprovante de Rendimentos?
+Resposta: O Comprovante de Rendimentos está disponível apenas para bolsistas e sempre referente ao exercício a ser declarado. A emissão deve ser realizada pelo sistema SIGFAPEAM, na área de acesso restrito do bolsista, por meio de login e senha. Para gerar o documento, acesse a seção "Arquivos" e selecione a opção "Gerar Comprovante de Rendimentos".
+Pergunta: Como solicitar declaração de bolsista?
+Resposta: Orientamos que seja solicitada a Declaração de Bolsista, contendo informações sobre o tipo de bolsa, período e valor, junto ao Departamento de Acompanhamento e Avaliação (DEAC).
+Pergunta: Verifiquei no extrato da conta corrente do auxílio que estão cobrando taxas e tem aplicação financeira, como proceder?
+Resposta: Entre em contato com o banco e apresente a justificativa de que, devido à natureza dos recursos financeiros depositados (recursos públicos), a conta não poderá conter qualquer modalidade de aplicação automática de saldo ou investimentos, linha de crédito, produtos bancários e deve ser isenta de cobrança de tarifas de serviços bancários, conforme previsto na Resolução n. 3.919 de 25 de novembro de 2010, do Banco Central.
+Pergunta: Quem é o representante legal da instituição executora e quem pode assinar o Termo de Outorga?
+Resposta: A instituição executora delega ao seu representante legal as competências atribuídas na forma da lei, por meio de nomeação do cargo e suas atribuições em portarias e/ou decretos publicados no Diário Oficial.
+Pergunta: Quando vou receber a próxima parcela do auxílio pesquisa?
+Resposta: O pagamento da segunda parcela ocorrerá após a prestação de contas parcial. Consulte os prazos de prestação de contas do seu projeto no SIGFAPEAM.
+
+Pergunta: Todas as assinaturas do Termo de Outorga são digitais, preciso entregar a via física?
+Resposta: Não. Quando o Termo de Outorga constar com ambas assinaturas certificadas/digitais (seja a do outorgado e do representante legal da instituição), fica dispensada a entrega do contrato físico na FAPEAM.
+Pergunta: Estou fora do Amazonas, posso abrir a conta corrente do auxílio pesquisa em outro Estado?
+Resposta: Sim, desde que seja uma conta corrente digital (aberta pelo aplicativo dos Bancos: BRADESCO e/ou NEXT). Caso a conta seja aberta presencialmente em uma agência física, esta deverá estar localizada dentro do Estado do Amazonas.
+Pergunta: Como retirar meu nome do CADIF?
+Resposta: Solicite que o pedido seja formalizado junto à Diretoria Técnico-Científica (DITEC), para que o caso possa ser devidamente analisado.
+Pergunta: Como retirar meu nome do Banco de Inadimplentes?
+Resposta: Em caso de pendência financeira, solicite que o pedido seja formalizado junto ao Núcleo de Avaliação de Prestação de Contas (NUPC), para que o caso possa ser devidamente analisado.
+Pergunta: Como faço para trocar senha do Sigfapeam?
+Resposta: Recomendamos entrar em contato com a Gerência de Informática FAPEAM (GEINF) através do endereço de e-mail: geinf@fapeam.am.gov.br e solicitar a alteração da senha.
+Pergunta: Esqueci a senha do Sigfapeam, como faço?
+Resposta: Entre em contato com a Gerência de Informática FAPEAM (GEINF) por e-mail: geinf@fapeam.am.gov.br e solicite uma nova senha.
+
+Pergunta: Onde solicito a conta para devolução de recurso?
+Resposta: Em caso de devolução de recurso, recomendamos entrar em contato com o Núcleo de Avaliação de Prestação de Contas (NUPC), encaminhando mensagem eletrônica para o e-mail: nupc@fapeam.am.gov.br, informando os dados do outorgado e o programa ao qual o projeto está vinculado.
+Pergunta: Como localizo no meu extrato bancário o pagamento da bolsa?
+Resposta: A fonte do pagamento é o Governo do Estado do Amazonas. Solicitamos que seja verificado se o valor recebido está de acordo com o valor previsto da bolsa.
+Pergunta: Como sei que o auxílio pesquisa foi pago?
+Resposta: Quando o recurso de auxílio pesquisa é transferido para a conta do projeto, o pesquisador recebe uma notificação por e-mail informando sobre o repasse do recurso.
+Pergunta: Devo assinar todas as folhas do Termo de Outorga?
+Resposta: Somente se assinado manualmente (de próprio punho). Caso a assinatura seja por meio eletrônico, deve ser realizada apenas na última página, não sendo necessário assinar as demais.
+Pergunta: Posso datar o Termo de Outorga?
+Resposta: Não, pois a data de vigência do Termo de Outorga deve refletir o momento da assinatura oficial da FAPEAM.
+Pergunta: Quais certidões de regularidade são necessárias para receber o auxílio pesquisa de subvenção econômica?
+Resposta: Seguir as orientações enviadas durante a implementação da subvenção econômica quanto ao tipo das Certidões Negativas necessárias, conforme disponibilizado no Edital no ato do enquadramento.
+Pergunta: Posso usar a conta de outro auxílio pesquisa para receber recurso de outro edital?
+Resposta: Não. Cada auxílio-pesquisa deverá ter sua conta específica.
+Pergunta: A assinatura pelo Gov.br é aceita pela FAPEAM?
+Resposta: Sim. A assinatura eletrônica do Gov.br é aceita em interações entre cidadãos e o governo. No entanto, não tem validade jurídica em interações entre pessoas físicas ou em processos judiciais.
+Pergunta: Devo declarar o valor recebido de bolsa no Imposto de Renda?
+Resposta: Os valores recebidos da FAPEAM devem ser informados na sua declaração do Imposto de Renda como "Rendimentos Isentos e Não Tributáveis", conforme o Manual de Declaração de Imposto de Renda – Pessoa Física (DIRPF), disponível no site da Receita Federal. Consulte um contador sobre como realizar a declaração.
+Pergunta: Como declarar o auxílio pesquisa no Imposto de Renda?
+Resposta: Os valores recebidos da FAPEAM devem ser informados na sua declaração do Imposto de Renda como "Rendimentos Isentos e Não Tributáveis", conforme o Manual de Declaração de Imposto de Renda – Pessoa Física (DIRPF), disponível no site da Receita Federal. Consulte um contador sobre como realizar a declaração.
+Pergunta: Quais documentos são aceitos como comprovante de residência?
+Resposta: O comprovante de endereço deve ser um documento que confirme onde você mora, contendo seu nome ou CPF, e emitido há menos de 120 dias. São aceitos contas de água, luz, telefone, internet e condomínio, além de faturas de cartão de crédito e contratos de aluguel.
+
+
+

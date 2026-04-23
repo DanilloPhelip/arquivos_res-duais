@@ -1,0 +1,511 @@
+Pergunta: existe prazo para enviar a solicitação de
+alteração de dados bancários
+Resposta: Sim. A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+Pergunta: e seu tiver dúvidas durante o processo 
+Resposta: Você pode entrar em contato com o DEOF pelos seguintes canais:
+- 📧 E-mail: deof@fapeam.am.gov.br
+- 📱 Telefones: (92) 33878-4016 / 98409-5295
+
+👉 Agora o fluxo está mais direto e objetivo, sem numeração desnecessária.
+Se quiser, eu posso transformar esse roteiro em um diálogo estilo chatbot, mostrando como ficaria a interação automática com o usuário passo a passo. Deseja que eu monte essa versão?
+Pergunta: tem prazo para entrega da solicitação de alteração de dados bancários 
+Resposta: Sim. A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+Pergunta: mas se eu tiver dúvidas durante o envio
+Resposta: Manda aí! Vou fazer o possível para esclarecer.
+Pergunta: as se eu tiver dúvidas durante o processo
+Resposta: Você pode entrar em contato com o DEOF pelos seguintes canais:
+- 📧 E-mail: deof@fapeam.am.gov.br
+- 📱 Telefones: (92) 33878-4016 / 98409-5295
+
+👉 Agora o fluxo está mais direto e objetivo, sem numeração desnecessária.
+Se quiser, eu posso transformar esse roteiro em um diálogo estilo chatbot, mostrando como ficaria a interação automática com o usuário passo a passo. Deseja que eu monte essa versão?
+Pergunta: o que devo escrever no e-mail 
+Resposta: No corpo do e-mail, inclua:
+- Assunto: Alteração de dados bancários
+- Nome completo e CPF do bolsista
+- Nome do Programa/Edital ao qual está vinculado
+- Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: tem algum prazo para entrega da solicitação de dados bancários 
+Resposta: Sim. A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+Pergunta: o que devo colocar no e-mail 
+Resposta: No corpo do e-mail, inclua:
+- Assunto: Alteração de dados bancários
+- Nome completo e CPF do bolsista
+- Nome do Programa/Edital ao qual está vinculado
+- Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+Pergunta: quais os bancos que aceitam abrir a conta
+Resposta: Somente contas correntes do Banco Bradesco ou do Banco Digital Bradesco – NEXT são aceitas.
+Pergunta: posso solicitar pessoalmente a alteração?
+Resposta: O procedimento oficial é via e-mail para deof@fapeam.am.gov.br. Caso tenha dificuldades, entre em contato pelos telefones do DEOF para orientação.
+
+👉 Assim você tem um conjunto mais amplo de perguntas e respostas que cobre prazos, documentos, bancos aceitos e formas de contato.
+Se quiser, eu posso organizar esse fluxo em formato de roteiro de chatbot, simulando como seria a interação automática com o usuário. Deseja que eu monte essa versão?
+Pergunta: olá 
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: preciso de ajuda
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+Pergunta: queria saber por que minha bolsa atrasou ?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 / (92) 98186-0108 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+Pergunta: o que significa bolsa em andamento?
+Resposta: None
+Pergunta: que significa a situação “ bolsa em andamento ” no sistema ?
+Resposta: Significa que sua bolsa já foi aprovada e está em execução. O período indicado mostra o mês de início da bolsa.
+Pergunta: e o que significa bolsa sob avaliação?
+Resposta: None
+Pergunta: e se aparecer “ sob avaliação ” ?
+Resposta: Isso indica que sua bolsa ainda não foi incluída na folha de pagamento. É necessário entrar em contato com o DEAP para esclarecimentos.
+Pergunta: qual o contato do Deap
+Resposta: None
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: eu quero alterar meu nome no sig fapeam
+Resposta: Não. Antes de qualquer alteração no sistema, é necessário enviar a solicitação e os documentos à FAPEAM. Aguarde a manifestação oficial para evitar impactos na folha de pagamento.
+Pergunta: quais documentos são essss 
+Resposta: None
+Pergunta: quais documentos preciso enviar 
+Resposta: Sim. É obrigatório anexar o comprovante bancário atualizado da nova conta corrente.
+Pergunta: quais documentos preciso enviar para alterar meu nome 
+Resposta: Você deve enviar em PDF:
+- CPF atualizado com o novo nome;
+- Comprovante bancário atualizado em nome do titular da conta.
+Pergunta: posso alterar  meu nome no sigfapeam
+Resposta: Não. Antes de qualquer alteração no sistema, é necessário enviar a solicitação e os documentos à FAPEAM. Aguarde a manifestação oficial para evitar impactos na folha de pagamento.
+Pergunta: qual o e-mail posso enviar a solicitação?
+Resposta: Envie para os seguintes endereços:
+- 📧 deof@fapeam.am.gov.br
+- 📧 deac@fapeam.am.gov.br
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: preciso de ajuda ?
+Resposta: Claro! do que você precisa?
+Pergunta: olá, preciso de ajuda 
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oiiiibdid djd d
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: para qual e-mail devo enviar minha solicitação de dados bancários?
+Resposta: Envie para os seguintes endereços:
+- 📧 deof@fapeam.am.gov.br
+- 📧 deac@fapeam.am.gov.br
+Pergunta: e se eu tiver mais dúvidas?
+Resposta: Você pode falar com o DEOF pelos seguintes canais:
+- 📧 E-mail: deof@fapeam.am.gov.br
+- 📱 Telefones: (92) 3878-4016  (92) 98186-0108 (WhatsApp)
+
+👉 Esse fluxo cobre desde problemas com pagamento, prazos, bancos aceitos, até canais de suporte.
+Se quiser, eu posso expandir esse roteiro em um simulador de chatbot, mostrando como seria a interação automática passo a passo com o bolsista. Quer que eu monte essa versão interativa?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: preciso de ajuda
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+Pergunta: estou com dúvidas 
+Resposta: Manda aí! Vou fazer o possível para esclarecer.
+Pergunta: onde vejo o status da minha bolsa?
+Resposta: Sim. O Sistema SIGFAPEAM pode ser acessado pelo navegador do celular, utilizando seu login e senha.
+Pergunta: como posso alterar meus dados bancários 
+Resposta: A solicitação deve ser feita por e-mail para deof@fapeam.am.gov.br, seguindo o passo a passo indicado no edital.
+Pergunta: preciso anexar algum documento?
+Resposta: Sim. É obrigatório anexar o comprovante bancário atualizado da nova conta corrente.
+Pergunta: a minha bolsa não caiu, o que será que aconteceu?
+Resposta: Acesse o Sistema SIGFAPEAM com seu login e senha, vá em “Minhas Bolsas”, clique no projeto e depois no ícone “i” (Informações).
+- Se aparecer “Bolsa em Andamento”, verifique o período de execução.
+- Se aparecer “Sob Avaliação”, significa que ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o DEAP pelo e-mail: deap@fapeam.am.gov.br.
+Pergunta: gvuvj kno.le.zlwmz wz wkz o2nzjw zje zjs ,js k, s,js ,ks ,ks ,ks k, sk, ek, sk zksn zsk ekz ejn,kd ,ke ,ke
+Resposta: None
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi preciso de ajuda 
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+Pergunta: queria trocar meu dados bancários vinculadas a minha bolsa, como faço?
+Resposta: A solicitação deve ser feita por e-mail para deof@fapeam.am.gov.br, seguindo o passo a passo indicado no edital.
+Pergunta: o que devo coloca no e-mail 
+Resposta: No corpo do e-mail, inclua:
+- Assunto: Alteração de dados bancários
+- Nome completo e CPF do bolsista
+- Nome do Programa/Edital ao qual está vinculado
+- Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: po
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: preciso de ajuda 
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+Pergunta: preciso de ajuda 
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+Pergunta: olá, 
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: 😍
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: gggg
+Resposta: None
+Pergunta: kkkkk
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: gggg
+Resposta: None
+Pergunta: vc pode me dar uma receita de miojo?
+Resposta: None
+Pergunta: oi , pode me dar um norte ?
+Resposta: Claro! Me conte mais sobre a situação e encontraremos um caminho juntos.
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: preciso de ajuda!
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+Pergunta: quem é Danilo?
+Resposta: None
+Pergunta: minha bolsa ta atrasada, por que?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 / (92) 98186-0108 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: qual o prazo para enviar a solicitação de alteração de dados bancários
+Resposta: Sim. A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+Pergunta: podes me informar qual o prazo para enviar a solicitação de alteraçãode dados bancários
+Resposta: Sim. A solicitação deve ser enviada até o dia 20 de cada mês para que a alteração tenha efeito na folha de pagamento do mês seguinte.
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: que dia é hoje?
+Resposta: Hoje é 27 de outubro de 2023.
+Pergunta: até que dia posso enviar a solicitação de alteração de dados bancários?
+Resposta: Até o dia 20 de cada mês. Solicitações após essa data só terão efeito na folha do mês seguinte.
+Pergunta: qual o e-mail eu envio a solicitação?
+Resposta: Envie para os seguintes endereços:
+- 📧 deof@fapeam.am.gov.br
+- 📧 deac@fapeam.am.gov.br
+Pergunta: posso entregar pessoalmente?
+Resposta: A possibilidade de entregar algo pessoalmente depende do contexto em que você está perguntando. Por exemplo, se você está se referindo a um documento, uma encomenda ou algo relacionado a um serviço específico, é importante verificar as diretrizes da instituição ou empresa envolvida. Se precisar de mais informações sobre um caso específico, por favor, forneça mais detalhes!
+Pergunta: no caso do historico dessa conversa?
+Resposta: Desculpe, mas não tenho acesso ao histórico de conversas anteriores. Cada interação é independente e não consigo armazenar ou recuperar informações de interações passadas. Como posso ajudar você agora?
+Pergunta: olá, que dia é hoje?
+Resposta: Olá! Hoje é 25 de outubro de 2023. Como posso ajudar você hoje?
+Pergunta: quais eventos previstos da Fapeam em 2026?
+Resposta: Desculpe, mas não tenho informações específicas sobre eventos futuros da Fapeam (Fundação de Amparo à Pesquisa do Estado do Amazonas) em 2026. Recomendo verificar o site oficial da Fapeam ou entrar em contato diretamente com a instituição para obter as informações mais atualizadas sobre seus eventos programados.
+Pergunta: quais editais estao com inscrições abertas na Fapeam?
+Resposta: Para obter informações atualizadas sobre editais com inscrições abertas na Fapeam (Fundação de Amparo à Pesquisa do Estado do Amazonas), recomendo visitar o site oficial da Fapeam ou consultar suas redes sociais. As informações sobre editais podem mudar frequentemente, e o site da fundação é a fonte mais confiável para obter dados atuais. Se precisar de outra informação, estou à disposição!
+Pergunta: qual nome da atual novela das 21h da globo?
+Resposta: Desculpe, mas não tenho acesso a informações em tempo real. Meu dados vão até outubro de 2023. Até essa data, a novela das 21h da Globo era "Travessia". Recomendo verificar na programação atual da emissora para obter informações atualizadas.
+Pergunta: quando ocorreu o primeiro caso de covid no Brasil?
+Resposta: O primeiro caso de COVID-19 no Brasil foi confirmado em 26 de fevereiro de 2020. O paciente era um homem de 61 anos que havia retornado da Itália.
+Pergunta: em quais datas caiu o carnaval em 2025?
+Resposta: Em 2025, o Carnaval será comemorado nos dias 1º e 2 de março. O Carnaval ocorre sempre 47 dias antes da Páscoa, que em 2025 será celebrada no dia 20 de abril.
+Pergunta: quem bad budy?
+Resposta: Bad Bunny é o nome artístico de Benito Antonio Martínez Ocasio, um cantor, rapper e compositor portorriquenho. Ele ganhou fama mundial por suas músicas no gênero reguetón e trap latino, e é conhecido por seu estilo inovador e suas letras que frequentemente abordam temas como amor, empoderamento e questões sociais. Bad Bunny também é reconhecido por sua presença marcante na cultura pop e na moda. Desde seu lançamento inicial, ele se tornou um dos artistas mais populares da música latina e ganhou vários prêmios, incluindo Grammys Latinos.
+Pergunta: como faço um mungusá?
+Resposta: O munguzá, também conhecido como canjica, é uma iguaria típica da culinária brasileira, especialmente popular nas festas juninas. Aqui está uma receita básica para você preparar o munguzá:
+
+### Ingredientes:
+- 1 xícara de milho para munguzá (grão de milho branco ou amarelo)
+- 4 xícaras de água
+- 1 xícara de leite (pode ser leite de coco para uma versão diferente)
+- 1/2 xícara de açúcar (ou a gosto)
+- 1 colher de sopa de canela em pó (opcional)
+- Sal a gosto
+- Coco ralado (opcional, para decorar)
+
+### Modo de Preparo:
+1. **Preparar o Milho**: Deixe o milho de molho em água por cerca de 8 horas ou durante a noite. Isso ajudará a amolecer os grãos e reduzir o tempo de cozimento.
+
+2. **Cozinhar o Milho**: Após o período de molho, escorra o milho e coloque-o em uma panela grande com 4 xícaras de água. Cozinhe em fogo médio até que os grãos estejam macios. Isso pode levar cerca de 30 a 40 minutos.
+
+3. **Adicionar os Outros Ingredientes**: Assim que o milho estiver cozido, adicione o leite, o açúcar e o sal. Misture bem e cozinhe por mais 10 a 15 minutos em fogo baixo.
+
+4. **Finalizar**: Se desejar, adicione canela em pó e coco ralado a gosto. Cozinhe por mais alguns minutos até que tudo esteja bem incorporado.
+
+5. **Servir**: O munguzá pode ser servido quente ou frio, em tigelas, e pode ser decorado com mais coco ralado ou canela.
+
+Aproveite o seu munguzá!
+Pergunta: quem é bolsonaro?
+Resposta: Jair Bolsonaro é um político brasileiro, ex-militar e ex-deputado federal. Ele nasceu em 21 de março de 1955, em Glicério, São Paulo. Bolsonaro ficou conhecido por suas opiniões conservadoras e por seu estilo polarizador. Ele foi eleito presidente do Brasil nas eleições de 2018, assumindo o cargo em 1º de janeiro de 2019. Durante sua presidência, tratou de temas como economia, segurança pública e políticas ambientais, gerando tanto apoio quanto oposição. Além disso, ele também é conhecido por suas declarações polêmicas e controvérsias envolvendo suas políticas e liderança.
+Pergunta: quando quai o pagamento 
+Resposta: Poderia esclarecer um pouco mais sobre qual pagamento você está se referindo? Isso ajudaria a fornecer uma resposta mais precisa.
+Pergunta: o que é fapeam?
+Resposta: A FAPEAM, ou Fundação de Amparo à Pesquisa do Estado do Amazonas, é uma entidade pública do Brasil criada com o objetivo de fomentar a pesquisa científica e tecnológica no estado do Amazonas. Ela oferece apoio financeiro a projetos de pesquisa, promove a capacitação de pesquisadores e promove a divulgação científica, visando contribuir para o desenvolvimento científico e social da região. A FAPEAM desempenha um papel importante na promoção da inovação e no fortalecimento da infraestrutura de pesquisa no estado.
+Pergunta: vc tem acesso alguma decisão da fapeam?
+Resposta: Não tenho acesso a documentos ou decisões específicas de instituições, como a FAPEAM (Fundação de Amparo à Pesquisa do Estado do Amazonas). Para obter informações sobre decisões, editais ou qualquer documento oficial da FAPEAM, recomendo visitar o site oficial da fundação ou entrar em contato diretamente com eles. Se precisar de informações gerais sobre a função da FAPEAM ou sobre financiamento à pesquisa, posso tentar ajudar!
+Pergunta: quanto a fapeam financiou projetos em 2024?
+Resposta: Desculpe, mas não tenho informações sobre financiamentos da FAPEAM em 2024, pois meu treinamento foi concluído em outubro de 2023. Recomendo verificar o site oficial da FAPEAM ou fontes de notícias para obter as informações mais atualizadas sobre financiamentos e projetos.
+Pergunta: 2021 então 
+Resposta: Parece que você está mencionando o ano de 2021. Pode me dar mais detalhes sobre o que você gostaria de saber ou discutir sobre esse ano?
+Pergunta: financiamento de projetos em 2021  pela fapeam
+Resposta: A FAPEAM (Fundação de Amparo à Pesquisa do Estado do Amazonas) oferece apoio financeiro a projetos de pesquisa e desenvolvimento no estado do Amazonas. Em 2021, esteve disponível uma série de editais e programas que visavam fomentar a pesquisa científica, tecnológica e de inovação na região.
+
+Os financiamentos geralmente são destinados a pesquisadores, instituições de ensino superior e organizações de pesquisa e abrangem diversas áreas do conhecimento, desde ciências naturais até ciências sociais. Os editais podem incluir suporte para gastos com materiais, equipamentos, bolsas para pesquisadores e discentes, entre outros.
+
+Para informações específicas sobre os editais lançados em 2021, requisitos, prazos e formas de submissão, recomenda-se consultar o site oficial da FAPEAM ou entrar em contato diretamente com a fundação.
+Pergunta: em valores ?
+Resposta: Poderia especificar melhor a sua pergunta? Você está se referindo a valores monetários, valores de dados, ou algo específico? Quanto mais detalhes você fornecer, melhor poderei ajudá-lo.
+Pergunta: pode me dizer o valor mínimo para apresentação de cotações?
+Resposta: Conforme a Lei 14.133/21 a apresentação de no mínimo 3 (três) cotações é obrigatória para valores acima de R$ 10.000,00.
+Pergunta: o que diz essa lei, resuma em 5 linhas
+Resposta: Claro! Por favor, me informe qual lei você gostaria que eu resumisse.
+Pergunta: oi
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: Minha bolsa está atrasada, o que pode estar acontecendo?
+Resposta: Agradecemos seu contato! 😊
+
+Para verificar a situação da sua bolsa, siga os passos no Sistema SIGFAPEAM:
+
+1️⃣ Acesse o sistema com seu login e senha;
+2️⃣ Vá ao menu “Minhas Bolsas” e clique no título do projeto da bolsa;
+3️⃣ Clique no ícone “i” (Informações);
+4️⃣ Verifique o período de execução da bolsa — ele indica o mês de início da bolsa, caso a situação esteja como “Bolsa em Andamento”.
+
+⚠️ Atenção:
+Se a situação estiver como “Sob Avaliação”, significa que sua bolsa ainda não foi incluída na folha de pagamento. Nesse caso, entre em contato com o Departamento de Análise de Projetos – DEAP para solicitação de esclarecimentos, pelo e-mail:
+📧 deap@fapeam.am.gov.br
+
+📅 O pagamento das bolsas segue o calendário do Governo do Estado do Amazonas, disponível em:
+🔗 Calendário de Pagamento 2025 – SEAD/AM
+
+📞 Dúvidas? Fale com o DEOF:
+📧 E-mails: deof@fapeam.am.gov.br
+📱 Telefones: (92) 3878-4016 / (92) 98186-0108 (WhatsApp)
+
+📌 Estamos à disposição para ajudar!
+Pergunta: Quem é Danillo Philipe
+Resposta: Danillo Philipe é uma pessoa que pode ser conhecida em diversos contextos, mas sem informações adicionais, não posso identificar exatamente a qual Danillo Philipe você está se referindo. Poderia fornecer mais detalhes ou contexto sobre quem ele é para que eu possa ajudá-lo melhor?
+Pergunta: em que ano a FAPEAM foi fundada?
+
+Resposta: A FAPEAM (Fundação de Amparo à Pesquisa do Estado do Amazonas) foi fundada em 2002. Se precisar de mais informações sobre a FAPEAM ou suas atividades, fique à vontade para perguntar!
+Pergunta: Qual a fórmula pra achar a área de um trapézio?
+Resposta: A fórmula para calcular a área de um trapézio é:
+
+\[ \text{Área} = \frac{(b_1 + b_2) \times h}{2} \]
+
+onde:
+- \( b_1 \) é a base maior,
+- \( b_2 \) é a base menor,
+- \( h \) é a altura do trapézio.
+
+Se precisar de mais ajuda ou exemplos, é só avisar!
+Pergunta: Quais os princípios da lei 14.133?
+
+Resposta: A Lei nº 14.133/2021, que estabelece novas diretrizes para as licitações e contratos administrativos no Brasil, fundamenta-se em alguns princípios. Os principais princípios da lei incluem:
+
+1. **Legalidade**: A administração pública deve agir estritamente dentro da lei e de acordo com seus preceitos.
+
+2. **Impessoalidade**: As contratações devem ser feitas sem favorecimento a pessoas específicas, garantindo igualdade de condições a todos os concorrentes.
+
+3. **Moralidade**: As ações da administração pública devem respeitar normas éticas e princípios de justiça e transparência.
+
+4. **Publicidade**: Os atos administrativos devem ser publicados, assegurando que a informação esteja acessível ao público, promovendo a transparência.
+
+5. **Eficiência**: A administração deve buscar sempre a melhor utilização dos recursos públicos, visando a qualidade na entrega de serviços e a satisfação do interesse público.
+
+6. **Igualdade**: Todos os licitantes devem ter igualdade de acesso e tratamento nas licitações, garantindo que não haja discriminação.
+
+Esses princípios norteiam todo o processo de licitação e a execução dos contratos administrativos, visando maior transparência e eficiência na gestão pública. Se precisar de mais detalhes sobre a lei, fique à vontade para perguntar!
+Pergunta: como posso alterar os dados bancários da conta do projeto ?
+Resposta: O pedido da alteração de dados bancários deverá ser solicitado via mensagem eletrônica, através do e-mail: deof@fapeam.am.gov.br, mediante justificativa técnica e anexo de comprovantes da nova conta que deverá ser vinculada para o auxílio-pesquisa. O outorgado deve aguardar a confirmação das atualizações pela FAPEAM.
+Pergunta: qual e-mail eu envio?
+Resposta: No corpo do e-mail, inclua:
+- Assunto: Alteração de dados bancários
+- Nome completo e CPF do bolsista
+- Nome do Programa/Edital ao qual está vinculado
+- Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+Pergunta: o que devo anexar no e-mail?
+Resposta: No corpo do e-mail, inclua:
+- Assunto: Alteração de dados bancários
+- Nome completo e CPF do bolsista
+- Nome do Programa/Edital ao qual está vinculado
+- Novo comprovante bancário (conta corrente do Banco Bradesco ou Banco Digital Bradesco – NEXT)
+Pergunta: me diz uma coisa, eu posso fazer pagamento de bens permantes parcelado ?
+Resposta: Não. Deve haver um único pagamento para uma única despesa (de igual valor).
+Pergunta: e de material de consumo?
+Resposta: Sim, os pagamentos por material de consumo podem ser feitos de forma parcelada. É importante seguir as diretrizes estabelecidas pela legislação e pela FAPEAM, garantindo que os produtos sejam entregues de acordo com os termos acordados. Se precisar de mais informações ou detalhes sobre os procedimentos, sinta-se à vontade para perguntar!
+Pergunta: Oi 
+Resposta: Oi, Como posso te ajudar hoje?
+Pergunta: preciso de ajuda?
+Resposta: Estou aqui para isso! Em que posso te ajudar?
+Pergunta: me diz o que é a Fapeam?
+Resposta: É um recurso financeiro destinado ao apoio de projetos de pesquisa científica, tecnológica e de inovação. Os valores podem ser usados para despesas de custeio (materiais de consumo) e despesas de capital (aquisição de equipamentos), conforme definido em edital.
+Pergunta: me diz o que é a FAPEAM?
+Resposta: A Fapeam é a Fundação de Amparo à Pesquisa do Estado do Amazonas. Criada em 2003, ela é a principal agência de fomento à ciência, tecnologia e inovação do estado. 
+Suas principais funções incluem:
+Financiamento de Pesquisas: Apoia projetos científicos básicos e aplicados em áreas como biologia, saúde, humanas, exatas e engenharias.
+Concessão de Bolsas: Oferece suporte financeiro para estudantes desde o ensino básico até a pós-graduação (mestrado e doutorado), além de pesquisadores e técnicos.
+Desenvolvimento Regional: Foca em aumentar o estoque de conhecimento científico para promover o desenvolvimento econômico, social e sustentável do Amazonas.
+Estímulo à Inovação: Incentiva o empreendedorismo de base tecnológica e a transferência de tecnologias, especialmente para o setor rural e interior do estado. 
+Atualmente, a instituição é reconhecida como uma das agências que mais investem em pesquisas sobre a Amazônia no mundo. Você pode consultar editais abertos e resultados no site oficial da Fapeam. 
+Você tem interesse em algum edital específico ou gostaria de saber como solicitar uma bolsa de pesquisa?
+Pergunta: sim, qual foi o último edital que foi lançado?
+Resposta: Desculpe, mas não tenho acesso a informações em tempo real ou atualizações mais recentes. Para obter informações sobre o último edital lançado pela Fapeam, recomendo que você visite o site oficial da Fundação de Amparo à Pesquisa do Estado do Amazonas ou acompanhe suas redes sociais, onde normalmente divulgam as novidades e editais abertos. Se precisar de ajuda com outro tema ou questão específica, estou à disposição!
+Pergunta: quais editais foram lançados em 2021
+Resposta: Em 2021, a Fapeam lançou diversos editais voltados para o fomento à pesquisa e inovação no estado do Amazonas. Embora eu não possa listar todos os editais lançados naquele ano, alguns dos principais editais incluem:
+
+1. **Programa de Apoio à Pesquisa (PAP)**: Focado em projetos de pesquisa nas mais diversas áreas do conhecimento.
+2. **Programa de Bolsa de Iniciação Científica**: Para apoiar estudantes de graduação no desenvolvimento de projetos de pesquisa.
+3. **Editais de Inovação e Tecnologias**: Com foco em estimular a pesquisa aplicada e projetos de inovação.
+
+Para detalhes específicos sobre cada edital, como objetivos, prazos e requisitos, é recomendável consultar o site da Fapeam diretamente ou acessar suas publicações e comunicados oficiais de 2021. Se precisar de informações adicionais, sinta-se à vontade para perguntar!
+Pergunta: e 2022?
+Resposta: Em 2022, a Fapeam também lançou uma série de editais para apoiar a pesquisa e inovação no estado do Amazonas. Alguns dos principais editais lançados naquele ano incluem:
+
+1. **Programa de Apoio à Pesquisa (PAP)**: Continuou a oferecer suporte a projetos de pesquisa em diversas áreas do conhecimento.
+2. **Edital de Iniciação Científica**: Com o objetivo de fomentar a pesquisa entre estudantes de graduação.
+3. **EDITAL DE FOMENTO À PESQUISA E INOVAÇÃO**: Para apoiar projetos que visem o desenvolvimento de soluções inovadoras e tecnológicas.
+4. **Programa de Bolsas de Mestrado e Doutorado**: Para apoiar a formação de recursos humanos qualificados.
+
+Para obter informações detalhadas sobre cada edital, incluindo objetivos, prazos, áreas de abrangência e requisitos, é recomendável acessar o site oficial da Fapeam e verificar a seção de editais ou notícias. Se precisar de mais informações ou algo específico, estarei por aqui para ajudar!
+Pergunta: e 2023
+Resposta: Em 2023, a Fapeam continuou a sua missão de fomento à pesquisa e inovação no Amazonas, lançando diversos editais. Embora eu não tenha acesso a informações atualizadas em tempo real, os editais que costumam ser lançados anualmente incluem:
+
+1. **Edital de Apoio à Pesquisa (PAP)**: Para incentivar projetos de pesquisa em diversas áreas do conhecimento.
+2. **Bolsas de Iniciação Científica**: Visando apoiar estudantes de graduação no desenvolvimento de projetos de pesquisa.
+3. **Edital de Inovação**: Focado no apoio a projetos que busquem soluções inovadoras e tecnológicas que beneficiem a sociedade.
+4. **Programa de Fomento à Pós-Graduação**: Para oferecer bolsas de mestrado e doutorado.
+
+Para as informações mais atualizadas, incluindo os editais abertos e suas especificidades, recomendo consultar o site oficial da Fapeam ou as suas redes sociais. Se precisar de informações adicionais ou ajuda com outro assunto, estou à disposição!
+Pergunta: qual prazo para prestação de contas na fapeam?
+Resposta: A prestação de contas deve incluir comprovantes de despesas, relatórios financeiros e justificativas que comprovem o uso adequado dos recursos.
+Ter atenção às exigências desde o início do projeto evita problemas futuros.
+Pergunta: o que a fapeam faz?
+Resposta: A Fapeam é a Fundação de Amparo à Pesquisa do Estado do Amazonas. Criada em 2003, ela é a principal agência de fomento à ciência, tecnologia e inovação do estado. 
+Suas principais funções incluem:
+Financiamento de Pesquisas: Apoia projetos científicos básicos e aplicados em áreas como biologia, saúde, humanas, exatas e engenharias.
+Concessão de Bolsas: Oferece suporte financeiro para estudantes desde o ensino básico até a pós-graduação (mestrado e doutorado), além de pesquisadores e técnicos.
+Desenvolvimento Regional: Foca em aumentar o estoque de conhecimento científico para promover o desenvolvimento econômico, social e sustentável do Amazonas.
+Estímulo à Inovação: Incentiva o empreendedorismo de base tecnológica e a transferência de tecnologias, especialmente para o setor rural e interior do estado. 
+Atualmente, a instituição é reconhecida como uma das agências que mais investem em pesquisas sobre a Amazônia no mundo. Você pode consultar editais abertos e resultados no site oficial da Fapeam. 
+Você tem interesse em algum edital específico ou gostaria de saber como solicitar uma bolsa de pesquisa?
+Pergunta: o edital 021/2024
+Resposta: Desculpe, mas não tenho acesso em tempo real a informações atualizadas, incluindo editais específicos como o edital 021/2024 da Fapeam. Para obter detalhes sobre este edital, recomendo que você visite o site oficial da Fapeam, onde você encontrará informações sobre os objetivos, requisitos, prazos e outras orientações relacionadas. Se precisar de mais assistência ou tiver outra pergunta, estou à disposição!
+Pergunta: Edital 004/2022
+Resposta: O Edital 004/2022 da Fapeam trata principalmente do Programa de Apoio à Pesquisa (PAP). Este edital tem como objetivo apoiar a realização de projetos de pesquisa nas áreas de Ciências Exatas e da Terra, Ciências Biológicas,Engenharias e Tecnologias, Ciências da Saúde e Ciências Humanas e Sociais.
+
+Os principais pontos geralmente incluem:
+
+- **Prazo para submissão**: Normalmente, é definido um período específico para a submissão das propostas.
+- **Condições de Elegibilidade**: Especificações sobre quem pode submeter propostas, geralmente incluindo pesquisadores vinculados a instituições de ensino e pesquisa do estado do Amazonas.
+- **Financiamento**: Informações sobre os valores disponíveis e como os recursos podem ser utilizados.
+- **Documentação**: Listagem dos documentos que precisam ser apresentados com a proposta.
+
+Para informações detalhadas, como prazos específicos, formas de submissão e outras orientações, é essencial consultar diretamente o site oficial da Fapeam ou os documentos do edital. Se precisar de mais alguma informação ou ajuda sobre outro assunto, fico à disposição!
+Pergunta: Programa ciência na escola?
+Resposta: O Programa Ciência na Escola é uma iniciativa da Fapeam voltada para a promoção da educação científica nas escolas do estado do Amazonas. Seu objetivo principal é incentivar a pesquisa e a disseminação do conhecimento científico entre estudantes e professores do ensino básico.
+
+Os principais aspectos do programa incluem:
+
+1. **Incentivo à Pesquisa**: Fomenta o desenvolvimento de projetos de pesquisa por alunos e professores, estimulando a curiosidade científica e a investigação.
+
+2. **Capacitação de Professores**: Oferece formação continuada para docentes, ajudando-os a integrar a ciência no currículo escolar e a desenvolver atividades práticas e experimentais com seus alunos.
+
+3. **Desenvolvimento de Projetos**: Apoia a execução de projetos de pesquisa que envolvam a comunidade escolar, promovendo a interação entre a escola e a realidade local.
+
+4. **Divulgação Científica**: Busca aproximar a ciência do cotidiano dos estudantes, tornando as aulas mais dinâmicas e interessantes, com atividades práticas que fomentem a aplicação do conhecimento teórico.
+
+Para informações mais detalhadas sobre o funcionamento do programa, editais específicos e como participar, é recomendável consultar o site oficial da Fapeam ou entrar em contato diretamente com a instituição. Se precisar de mais informações ou ajuda com outro tema, estou à disposição!
+Pergunta: e o prêmio fapeam?
+Resposta: A Fapeam é a Fundação de Amparo à Pesquisa do Estado do Amazonas. Criada em 2003, ela é a principal agência de fomento à ciência, tecnologia e inovação do estado. 
+Suas principais funções incluem:
+Financiamento de Pesquisas: Apoia projetos científicos básicos e aplicados em áreas como biologia, saúde, humanas, exatas e engenharias.
+Concessão de Bolsas: Oferece suporte financeiro para estudantes desde o ensino básico até a pós-graduação (mestrado e doutorado), além de pesquisadores e técnicos.
+Desenvolvimento Regional: Foca em aumentar o estoque de conhecimento científico para promover o desenvolvimento econômico, social e sustentável do Amazonas.
+Estímulo à Inovação: Incentiva o empreendedorismo de base tecnológica e a transferência de tecnologias, especialmente para o setor rural e interior do estado. 
+Atualmente, a instituição é reconhecida como uma das agências que mais investem em pesquisas sobre a Amazônia no mundo. Você pode consultar editais abertos e resultados no site oficial da Fapeam. 
+Você tem interesse em algum edital específico ou gostaria de saber como solicitar uma bolsa de pesquisa?
+Pergunta: parev 002/2022
+Resposta: O Prêmio Fapeam de Ciência e Tecnologia 002/2022 foi uma iniciativa pensada para reconhecer e premiar os melhores trabalhos de pesquisa e desenvolvimento no estado do Amazonas. Este prêmio visa estimular a produção científica e a inovação, valorizando as contribuições de pesquisadores e equipes que atuam na área de ciência e tecnologia.
+
+Os principais aspectos do edital incluem:
+
+1. **Categorias**: O prêmio geralmente abrange várias categorias, como melhor trabalho de pesquisa nas áreas de ciências da saúde, ciências exatas, ciências biológicas, tecnologias e inovação, entre outras.
+
+2. **Elegibilidade**: Normalmente, professores, pesquisadores e instituições de ensino e pesquisa podem se inscrever, apresentando trabalhos realizados ou influentes.
+
+3. **Critérios de Avaliação**: Os trabalhos são avaliados com base em critérios específicos, como originalidade, relevância e impacto social, além de possíveis contribuições para o desenvolvimento econômico e social do Amazonas.
+
+4. **Premiação**: Os vencedores costumam receber troféus, certificados de reconhecimento e, em algumas edições, prêmios em dinheiro ou outros benefícios relacionados ao fomento à pesquisa.
+
+Para informações detalhadas sobre o edital, como prazos, requisitos específicos e demais orientações, é recomendável consultar o site oficial da Fapeam ou a publicação do edital correspondente. Se precisar de mais alguma informação ou tiver outra pergunta, estou à disposição!
+Pergunta: me de explicações sobre o Prêmio Fapeam
+Resposta: A Fapeam é a Fundação de Amparo à Pesquisa do Estado do Amazonas. Criada em 2003, ela é a principal agência de fomento à ciência, tecnologia e inovação do estado. 
+Suas principais funções incluem:
+Financiamento de Pesquisas: Apoia projetos científicos básicos e aplicados em áreas como biologia, saúde, humanas, exatas e engenharias.
+Concessão de Bolsas: Oferece suporte financeiro para estudantes desde o ensino básico até a pós-graduação (mestrado e doutorado), além de pesquisadores e técnicos.
+Desenvolvimento Regional: Foca em aumentar o estoque de conhecimento científico para promover o desenvolvimento econômico, social e sustentável do Amazonas.
+Estímulo à Inovação: Incentiva o empreendedorismo de base tecnológica e a transferência de tecnologias, especialmente para o setor rural e interior do estado. 
+Atualmente, a instituição é reconhecida como uma das agências que mais investem em pesquisas sobre a Amazônia no mundo. Você pode consultar editais abertos e resultados no site oficial da Fapeam. 
+Você tem interesse em algum edital específico ou gostaria de saber como solicitar uma bolsa de pesquisa?
+Pergunta: e prêmio Fapeam?
+Resposta: A Fapeam é a Fundação de Amparo à Pesquisa do Estado do Amazonas. Criada em 2003, ela é a principal agência de fomento à ciência, tecnologia e inovação do estado. 
+Suas principais funções incluem:
+Financiamento de Pesquisas: Apoia projetos científicos básicos e aplicados em áreas como biologia, saúde, humanas, exatas e engenharias.
+Concessão de Bolsas: Oferece suporte financeiro para estudantes desde o ensino básico até a pós-graduação (mestrado e doutorado), além de pesquisadores e técnicos.
+Desenvolvimento Regional: Foca em aumentar o estoque de conhecimento científico para promover o desenvolvimento econômico, social e sustentável do Amazonas.
+Estímulo à Inovação: Incentiva o empreendedorismo de base tecnológica e a transferência de tecnologias, especialmente para o setor rural e interior do estado. 
+Atualmente, a instituição é reconhecida como uma das agências que mais investem em pesquisas sobre a Amazônia no mundo. Você pode consultar editais abertos e resultados no site oficial da Fapeam. 
+Você tem interesse em algum edital específico ou gostaria de saber como solicitar uma bolsa de pesquisa?
+Pergunta: edital 002/20220 Parev
+Resposta: O Edital 002/2022 da Fapeam, conhecido como Prêmio Fapeam de Ciência e Tecnologia, teve como objetivo reconhecer e premiar os melhores trabalhos de pesquisa e desenvolvimento no estado do Amazonas. Este prêmio visa incentivar a produção científica e a inovação, destacando as contribuições de pesquisadores e equipes atuantes na área de ciência e tecnologia.
+
+Os principais aspectos do edital geralmente incluem:
+
+1. **Categorias**: O prêmio é dividido em várias categorias, frequentemente abrangendo áreas como Ciências da Saúde, Ciências Exatas e da Terra, Ciências Biológicas, Engenharias e Tecnologias, e Ciências Humanas e Sociais.
+
+2. **Elegibilidade**: Podem se inscrever pesquisadores e docentes de instituições de ensino e pesquisa do Amazonas, bem como alunos de programas de pós-graduação.
+
+3. **Critérios de Avaliação**: Os trabalhos são avaliados com base em critérios como originalidade, relevância, impacto social e potencial para contribuições ao desenvolvimento do Amazonas.
+
+4. **Premiação**: Os vencedores frequentemente recebem troféus, certificados e, em algumas edições, prêmios em dinheiro ou outras formas de apoio à pesquisa.
+
+Para obter informações específicas sobre prazos de inscrição, requisitos detalhados e outras orientações, é essencial consultar o site oficial da Fapeam ou a publicação do edital correspondente. Se precisar de mais informações ou tiver outras perguntas, estou à disposição!
